@@ -34,7 +34,7 @@ Install the Hungarian language pack via composer is never easier.
 **Install Hungarian pack**:
 
 ```
-composer require mageplaza/magento-2-hungarian-language-pack:*
+composer require mageplaza/magento-2-hungarian-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy hu-hu
 
@@ -44,7 +44,7 @@ php bin/magento setup:static-content:deploy hu-hu
 **Update  Hungarian pack**:
 
 ```
-composer update mageplaza/magento-2-hungarian-language-pack:*
+composer update mageplaza/magento-2-hungarian-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy hu-hu
 
