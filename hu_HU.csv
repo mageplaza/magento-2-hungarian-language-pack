@@ -6602,9 +6602,9 @@ Options,Opciók,module,Magento_Multishipping
 "Review Order","Rendelés áttekintése",module,Magento_Multishipping
 "Select Shipping Method","Select Shipping Method",module,Magento_Multishipping
 "We received your order!","Rendelését rögzítettük!",module,Magento_Multishipping
-"Message has been rejected: %1","Message has been rejected: %1",module,Magento_MysqlMq
+"Message has been rejected: %1","Üzenet visszautasítva: %1",module,Magento_MysqlMq
 "MySQL Message Queue Cleanup","MySQL Message Queue Cleanup",module,Magento_MysqlMq
-"All the times are in minutes. Use ""0"" if you want to skip automatic clearance.","All the times are in minutes. Use ""0"" if you want to skip automatic clearance.",module,Magento_MysqlMq
+"All the times are in minutes. Use ""0"" if you want to skip automatic clearance.","Teljes idő percben megadva. Használd a ""0"" ha átugranád az automatikus lenullázódást.",module,Magento_MysqlMq
 "Retry Messages In Progress After","Retry Messages In Progress After",module,Magento_MysqlMq
 "Successful Messages Lifetime","Successful Messages Lifetime",module,Magento_MysqlMq
 "Failed Messages Lifetime","Failed Messages Lifetime",module,Magento_MysqlMq
