@@ -2725,6 +2725,7 @@ Payment,Fizetés,module,Magento_Checkout
 "Not yet calculated","Nincs kiszámítva",module,Magento_Checkout
 "We received your order!","Rendelését rögzítettük!",module,Magento_Checkout
 "Thank you for your purchase!","Köszönjük a vásárlást!",module,Magento_Checkout
+"Go to Checkout","Tovább a fizetéshez",module,Magento_Checkout
 "Terms and Conditions","Általános Szerződési Feltételek",module,Magento_CheckoutAgreements
 "Add New Condition","Új feltétel hozzáadása",module,Magento_CheckoutAgreements
 "Save Condition","Feltétel mentése",module,Magento_CheckoutAgreements
