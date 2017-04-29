@@ -2726,6 +2726,9 @@ Payment,Fizetés,module,Magento_Checkout
 "We received your order!","Rendelését rögzítettük!",module,Magento_Checkout
 "Thank you for your purchase!","Köszönjük a vásárlást!",module,Magento_Checkout
 "Go to Checkout","Tovább a fizetéshez",module,Magento_Checkout
+"View and edit cart","Kosár megtekintése és szerkesztése",module,Magento_Checkout
+"Item in Cart","Termék a kosárban",module,Magento_Checkout
+"Items in Cart","Termék a kosárban",module,Magento_Checkout
 "Terms and Conditions","Általános Szerződési Feltételek",module,Magento_CheckoutAgreements
 "Add New Condition","Új feltétel hozzáadása",module,Magento_CheckoutAgreements
 "Save Condition","Feltétel mentése",module,Magento_CheckoutAgreements
@@ -6308,6 +6311,7 @@ Partners,Partnerek,module,Magento_Marketplace
 "Read More",Bővebben,module,Magento_Marketplace
 "Partner Page","Partner Page",module,Magento_Marketplace
 "No partners were found","No partners were found",module,Magento_Marketplace
+"Find Partners & Extensions","Find Partners & Extensions",module,Magento_Marketplace
 Synchronize,Szinkronizálás,module,Magento_MediaStorage
 "Synchronizing %1 to %2","Synchronizing %1 to %2",module,Magento_MediaStorage
 Synchronizing...,Szinkronizálás...,module,Magento_MediaStorage
