@@ -5009,8 +5009,8 @@ No,Nem ,module,Magento_GiftCard
 "Gift Card Is Redeemable","Az Ajándékkártya beváltható",module,Magento_GiftCard
 "We cannot create this gift card.","Nem hozható létre ajándékkártya.",module,Magento_GiftCard
 N/A,N/A,module,Magento_GiftCard
-"Gift Card Accounts","Gift Card Accounts",module,Magento_GiftCard
-"Duplicate amount found.","Duplicate amount found.",module,Magento_GiftCard
+"Gift Card Accounts","Ajándékkártya fiókok",module,Magento_GiftCard
+"Duplicate amount found.","Ismétlődő összeg található.",module,Magento_GiftCard
 "Something went wrong while preparing the gift card.","Hiba történt az ajándékkártya előkészítése közben.",module,Magento_GiftCard
 "Please specify a gift card amount.","Adjon meg az ajándékkártya értékét.",module,Magento_GiftCard
 "Please specify all the required information.","Kérjük, adjon meg minden szükséges adatot.",module,Magento_GiftCard
@@ -5022,10 +5022,10 @@ N/A,N/A,module,Magento_GiftCard
 "Please specify a sender email.","Adja meg a feladó email címét.",module,Magento_GiftCard
 Ordered,Megrendelt,module,Magento_GiftCard
 Invoiced,Számlázott,module,Magento_GiftCard
-"Some gift card accounts were not created properly. You can create gift card accounts manually <a href=""%1"">here</a>.","Some gift card accounts were not created properly. You can create gift card accounts manually <a href=""%1"">here</a>.",module,Magento_GiftCard
+"Some gift card accounts were not created properly. You can create gift card accounts manually <a href=""%1"">here</a>.","Némely ajándékkártya fiók nem megfelelően jött létre. <a href=""%1"">Itt manuálisan</a> is létrehozhatja őket.",module,Magento_GiftCard
 Amount,Összeg,module,Magento_GiftCard
 To,Neki,module,Magento_GiftCard
-"Treat Balance as Store Credit","Treat Balance as Store Credit",module,Magento_GiftCard
+"Treat Balance as Store Credit","Egyenleg kezelése bolti hitelként",module,Magento_GiftCard
 [GLOBAL],[GLOBAL],module,Magento_GiftCard
 "Use Config Settings","Konfigurációs beállítások használata",module,Magento_GiftCard
 "Lifetime (days)","Élettartam (nap)",module,Magento_GiftCard
@@ -5062,73 +5062,73 @@ Availability,Elérhetőség,module,Magento_GiftCard
 "%sender has sent you a gift card for use at <a href=""%store_url"">%store_name</a> and it is now ready to be used for purchases.","%sender küldött önnek egy ajándékkártyát, amit a <a href=""%store_url"">%store_name</a> webáruházban akár azonnal is levásárolhat.",module,Magento_GiftCard
 "Gift Card Codes:","Ajándékkártya kódok:",module,Magento_GiftCard
 "Gift Card Code:","Ajándékkártya kód:",module,Magento_GiftCard
-"Each card has a balance of %balance that can be used at <a href=""%store_url"">%store_name</a>.","Each card has a balance of %balance that can be used at <a href=""%store_url"">%store_name</a>.",module,Magento_GiftCard
-"The card has a balance of %balance that can be used at <a href=""%store_url"">%store_name</a>.","The card has a balance of %balance that can be used at <a href=""%store_url"">%store_name</a>.",module,Magento_GiftCard
-"Click on the code(s) above to redeem them into Store Credit.","Click on the code(s) above to redeem them into Store Credit.",module,Magento_GiftCard
-"Message from %sender_name:","Message from %sender_name:",module,Magento_GiftCard
+"Each card has a balance of %balance that can be used at <a href=""%store_url"">%store_name</a>.","Minden egyes kártyának van %balance egyenlege, amely a <a href=""%store_url""> %store_name</a> boltban felhasználható.",module,Magento_GiftCard
+"The card has a balance of %balance that can be used at <a href=""%store_url"">%store_name</a>.","A kártya egyenlege %balance, amely a <a href=""%store_url""> %store_name</a> boltban használható fel.",module,Magento_GiftCard
+"Click on the code(s) above to redeem them into Store Credit.","Kattintson a fenti kód(ok)ra hogy átváltsa őket bolti hitelre.",module,Magento_GiftCard
+"Message from %sender_name:","%sender_name üzenete:",module,Magento_GiftCard
 "Gift Cards",Ajándékkártya,module,Magento_GiftCard
 "Gift Card Email Settings","Ajándékkártya E-mail beállítások",module,Magento_GiftCard
-"Gift Card Notification Email Sender","Gift Card Notification Email Sender",module,Magento_GiftCard
-"Gift Card Notification Email Template","Gift Card Notification Email Template",module,Magento_GiftCard
+"Gift Card Notification Email Sender","Ajándék kártya értesítő E-mail feladója",module,Magento_GiftCard
+"Gift Card Notification Email Template","Ajándék kártya értesítő E-mail sablon",module,Magento_GiftCard
 "Gift Card General Settings","Ajándékkártya általános beállítások",module,Magento_GiftCard
 Redeemable,Beválthatóság,module,Magento_GiftCard
 "If empty no expiration.","Ha üres, nincs lejárati idő.",module,Magento_GiftCard
 "Allow Gift Message","Ajándéküzenet engedélyezése",module,Magento_GiftCard
 "Gift Message Maximum Length","Ajándék üzenet maximális hossza",module,Magento_GiftCard
-"Generate Gift Card Account when Order Item is","Generate Gift Card Account when Order Item is",module,Magento_GiftCard
-"Gift Card Accounts","Gift Card Accounts",module,Magento_GiftCardAccount
-"Add Gift Card Account","Add Gift Card Account",module,Magento_GiftCardAccount
+"Generate Gift Card Account when Order Item is","Ajándékkártya fiók generálása, ha a rendelt termék",module,Magento_GiftCard
+"Gift Card Accounts","Ajándék kártya fiókok",module,Magento_GiftCardAccount
+"Add Gift Card Account","Új ajándékkártya fiók",module,Magento_GiftCardAccount
 Save,Mentés,module,Magento_GiftCardAccount
 Delete,Törlés,module,Magento_GiftCardAccount
-"Save & Send Email","Save & Send Email",module,Magento_GiftCardAccount
-"Edit Gift Card Account: %1","Edit Gift Card Account: %1",module,Magento_GiftCardAccount
-"New Gift Card Account","New Gift Card Account",module,Magento_GiftCardAccount
+"Save & Send Email","Mentés és e-mail küldése",module,Magento_GiftCardAccount
+"Edit Gift Card Account: %1","Ajándékkártya fiók szerkesztése: %1",module,Magento_GiftCardAccount
+"New Gift Card Account","Új ajándékkártya fiók",module,Magento_GiftCardAccount
 ID,Azonosító,module,Magento_GiftCardAccount
 Date,Dátum,module,Magento_GiftCardAccount
 Action,Akció,module,Magento_GiftCardAccount
-"Balance Change","Balance Change",module,Magento_GiftCardAccount
+"Balance Change",Egyenlegváltozás,module,Magento_GiftCardAccount
 Balance,Egyenleg,module,Magento_GiftCardAccount
-"More Information","More Information",module,Magento_GiftCardAccount
+"More Information","További információ",module,Magento_GiftCardAccount
 Information,Információ,module,Magento_GiftCardAccount
-"Gift Card Code","Gift Card Code",module,Magento_GiftCardAccount
+"Gift Card Code","Ajándékkártya kód",module,Magento_GiftCardAccount
 Status,Állapot,module,Magento_GiftCardAccount
-Active,Active,module,Magento_GiftCardAccount
+Active,Aktív,module,Magento_GiftCardAccount
 Yes,Igen,module,Magento_GiftCardAccount
 No,Nem ,module,Magento_GiftCardAccount
-Redeemable,Redeemable,module,Magento_GiftCardAccount
-Website,Website,module,Magento_GiftCardAccount
+Redeemable,Beváltható,module,Magento_GiftCardAccount
+Website,Honlap,module,Magento_GiftCardAccount
 "Expiration Date","Lejárat dátuma",module,Magento_GiftCardAccount
-"Send Gift Card","Send Gift Card",module,Magento_GiftCardAccount
-"Recipient Email","Recipient Email",module,Magento_GiftCardAccount
-"Recipient Name","Recipient Name",module,Magento_GiftCardAccount
-"Send Email from the Following Store View","Send Email from the Following Store View",module,Magento_GiftCardAccount
-"-- First Please Select a Website --","-- First Please Select a Website --",module,Magento_GiftCardAccount
-"Gift Card Account","Gift Card Account",module,Magento_GiftCardAccount
+"Send Gift Card","Ajándékkártya küldés",module,Magento_GiftCardAccount
+"Recipient Email","Kedvezményezett e-mail címe",module,Magento_GiftCardAccount
+"Recipient Name","Kedvezményezett neve",module,Magento_GiftCardAccount
+"Send Email from the Following Store View","Email küldése a következő bolt nézetből",module,Magento_GiftCardAccount
+"-- First Please Select a Website --","--Először jelöljön ki egy Honlapot--",module,Magento_GiftCardAccount
+"Gift Card Account","Ajándékkártya fiókok",module,Magento_GiftCardAccount
 History,Előzmények,module,Magento_GiftCardAccount
-"This gift card account has been deleted.","This gift card account has been deleted.",module,Magento_GiftCardAccount
-"We couldn't find a gift card account to delete.","We couldn't find a gift card account to delete.",module,Magento_GiftCardAccount
-"Edit Gift Card Account","Edit Gift Card Account",module,Magento_GiftCardAccount
-"New Account","New Account",module,Magento_GiftCardAccount
-"New code pool was generated.","New code pool was generated.",module,Magento_GiftCardAccount
-"We were unable to generate a new code pool.","We were unable to generate a new code pool.",module,Magento_GiftCardAccount
-"Code Pool used: <b>%1%</b> (free <b>%2</b> of <b>%3</b> total). Generate new code pool <a href=""%4"">here</a>.","Code Pool used: <b>%1%</b> (free <b>%2</b> of <b>%3</b> total). Generate new code pool <a href=""%4"">here</a>.",module,Magento_GiftCardAccount
+"This gift card account has been deleted.","Ez ajándékkártya fiók törölve lett.",module,Magento_GiftCardAccount
+"We couldn't find a gift card account to delete.","Nincs törölhető ajándékkártya fiók.",module,Magento_GiftCardAccount
+"Edit Gift Card Account","Ajándékkártya fiók szerkesztése",module,Magento_GiftCardAccount
+"New Account","Új fiók",module,Magento_GiftCardAccount
+"New code pool was generated.","Új kód készlet létrehozva.",module,Magento_GiftCardAccount
+"We were unable to generate a new code pool.","Nem lehet új kód készletet generálni.",module,Magento_GiftCardAccount
+"Code Pool used: <b>%1%</b> (free <b>%2</b> of <b>%3</b> total). Generate new code pool <a href=""%4"">here</a>.","Használt kód készlet: <b>%1%</b> (összesen <b>%3</b>, ebből még szabad <b>%2</b>). Új kód készletet <a href=""%4"">itt</a> generálhat.",module,Magento_GiftCardAccount
 "Please select a gift card account(s)","Please select a gift card account(s)",module,Magento_GiftCardAccount
-"You deleted a total of %1 records.","You deleted a total of %1 records.",module,Magento_GiftCardAccount
+"You deleted a total of %1 records.","Összesen %1 bejegyzés törölve.",module,Magento_GiftCardAccount
 "You saved the gift card account.","You saved the gift card account.",module,Magento_GiftCardAccount
 "An email was not sent because the gift card account is not active.","An email was not sent because the gift card account is not active.",module,Magento_GiftCardAccount
 "You saved the gift card account, but an email was not sent.","You saved the gift card account, but an email was not sent.",module,Magento_GiftCardAccount
 "We will refund the gift card amount to your customer’s store credit","We will refund the gift card amount to your customer’s store credit",module,Magento_GiftCardAccount
 "Please enable Store Credit to refund the gift card amount to your customer","Please enable Store Credit to refund the gift card amount to your customer",module,Magento_GiftCardAccount
 "Please correct the gift card code.","Please correct the gift card code.",module,Magento_GiftCardAccount
-"Gift Card ""%1"" was added.","Gift Card ""%1"" was added.",module,Magento_GiftCardAccount
-"We cannot apply this gift card.","We cannot apply this gift card.",module,Magento_GiftCardAccount
-"Gift Card ""%1"" was removed.","Gift Card ""%1"" was removed.",module,Magento_GiftCardAccount
+"Gift Card ""%1"" was added.","""%1"" ajándékkártya hozzáadva.",module,Magento_GiftCardAccount
+"We cannot apply this gift card.","Nem lehet alkalmazni ezt az ajándékkártyát.",module,Magento_GiftCardAccount
+"Gift Card ""%1"" was removed.","""%1"" ajándékkártya eltávolítva.",module,Magento_GiftCardAccount
 "You can't remove this gift card.","You can't remove this gift card.",module,Magento_GiftCardAccount
 "You can't redeem a gift card now.","You can't redeem a gift card now.",module,Magento_GiftCardAccount
-"Gift Card ""%1"" was redeemed.","Gift Card ""%1"" was redeemed.",module,Magento_GiftCardAccount
-"We cannot redeem this gift card.","We cannot redeem this gift card.",module,Magento_GiftCardAccount
-"Gift Card","Gift Card",module,Magento_GiftCardAccount
-"By admin: %1.","By admin: %1.",module,Magento_GiftCardAccount
+"Gift Card ""%1"" was redeemed.","""%1"" ajándékkártya felhasználva.",module,Magento_GiftCardAccount
+"We cannot redeem this gift card.","Nem lehet érvényesíteni ezt az ajándékkártyát.",module,Magento_GiftCardAccount
+"Gift Card",Ajándékkártya,module,Magento_GiftCardAccount
+"By admin: %1.","Admin: %1.",module,Magento_GiftCardAccount
 "The expiration date must be set in the future.","The expiration date must be set in the future.",module,Magento_GiftCardAccount
 "The balance cannot be less than zero.","The balance cannot be less than zero.",module,Magento_GiftCardAccount
 "This gift card account is already in the quote.","This gift card account is already in the quote.",module,Magento_GiftCardAccount
@@ -5140,65 +5140,65 @@ History,Előzmények,module,Magento_GiftCardAccount
 "Gift card account %1 is expired.","Gift card account %1 is expired.",module,Magento_GiftCardAccount
 "Gift card account %1 has a zero balance.","Gift card account %1 has a zero balance.",module,Magento_GiftCardAccount
 "Gift card account %1 balance is lower than the charged amount.","Gift card account %1 balance is lower than the charged amount.",module,Magento_GiftCardAccount
-Available,Available,module,Magento_GiftCardAccount
-Used,Used,module,Magento_GiftCardAccount
-Redeemed,Redeemed,module,Magento_GiftCardAccount
-Expired,Expired,module,Magento_GiftCardAccount
+Available,Elérhető,module,Magento_GiftCardAccount
+Used,Felhasznált,module,Magento_GiftCardAccount
+Redeemed,Felhasznált,module,Magento_GiftCardAccount
+Expired,Lejárt,module,Magento_GiftCardAccount
 "Please enter a valid customer ID.","Please enter a valid customer ID.",module,Magento_GiftCardAccount
 "Gift Card Redeemed: %1. For customer #%2.","Gift Card Redeemed: %1. For customer #%2.",module,Magento_GiftCardAccount
-Created,Created,module,Magento_GiftCardAccount
-Updated,Updated,module,Magento_GiftCardAccount
-Sent,Sent,module,Magento_GiftCardAccount
-"Order #%1.","Order #%1.",module,Magento_GiftCardAccount
-"Recipient: %1.","Recipient: %1.",module,Magento_GiftCardAccount
-"Customer #%1.","Customer #%1.",module,Magento_GiftCardAccount
+Created,Létrehozva,module,Magento_GiftCardAccount
+Updated,Frissítve,module,Magento_GiftCardAccount
+Sent,Elküldve,module,Magento_GiftCardAccount
+"Order #%1.","Megrendelés #%1.",module,Magento_GiftCardAccount
+"Recipient: %1.","Címzett: %1.",module,Magento_GiftCardAccount
+"Customer #%1.","Vásárló #%1.",module,Magento_GiftCardAccount
 "Please assign a gift card account.","Please assign a gift card account.",module,Magento_GiftCardAccount
 "Unknown history action.","Unknown history action.",module,Magento_GiftCardAccount
-"We were unable to create full code pool size. Please check settings and try again.","We were unable to create full code pool size. Please check settings and try again.",module,Magento_GiftCardAccount
-"No codes left in the pool.","No codes left in the pool.",module,Magento_GiftCardAccount
+"We were unable to create full code pool size. Please check settings and try again.","Nem lehet létrehozni a teljes kód készletet. Kérem ellenőrizze a beállításokat.",module,Magento_GiftCardAccount
+"No codes left in the pool.","Nem maradt kód a készletben.",module,Magento_GiftCardAccount
 "Cart %1 doesn't contain products","Cart %1 doesn't contain products",module,Magento_GiftCardAccount
 "Could not delete gift card from quote","Could not delete gift card from quote",module,Magento_GiftCardAccount
 "Could not add gift card code","Could not add gift card code",module,Magento_GiftCardAccount
 "Please correct the wrong or expired Gift Card Code.","Please correct the wrong or expired Gift Card Code.",module,Magento_GiftCardAccount
-Alphanumeric,Alphanumeric,module,Magento_GiftCardAccount
-Alphabetical,Alphabetical,module,Magento_GiftCardAccount
-Numeric,Numeric,module,Magento_GiftCardAccount
+Alphanumeric,Alfanumerikus,module,Magento_GiftCardAccount
+Alphabetical,Betűrendes,module,Magento_GiftCardAccount
+Numeric,Numerikus,module,Magento_GiftCardAccount
 "The maximum generated code length is 255. Please correct your settings.","The maximum generated code length is 255. Please correct your settings.",module,Magento_GiftCardAccount
-"Gift Cards","Gift Cards",module,Magento_GiftCardAccount
-"test message","test message",module,Magento_GiftCardAccount
-Generate,Generate,module,Magento_GiftCardAccount
-"Code Pool used:","Code Pool used:",module,Magento_GiftCardAccount
+"Gift Cards",Ajándékkártya,module,Magento_GiftCardAccount
+"test message",tesztüzenet,module,Magento_GiftCardAccount
+Generate,Létrehoz,module,Magento_GiftCardAccount
+"Code Pool used:","Használt kód készlet:",module,Magento_GiftCardAccount
 (free,(free,module,Magento_GiftCardAccount
 of,of,module,Magento_GiftCardAccount
 total).,total).,module,Magento_GiftCardAccount
 "Are you sure you want to continue without saving your changes?","Are you sure you want to continue without saving your changes?",module,Magento_GiftCardAccount
 "Refund Gift Cards to Store Credit","Refund Gift Cards to Store Credit",module,Magento_GiftCardAccount
-"Add Gift Card","Add Gift Card",module,Magento_GiftCardAccount
+"Add Gift Card","Ajándékkártya hozzáadása",module,Magento_GiftCardAccount
 Remove,Eltávolítás,module,Magento_GiftCardAccount
-"Gift Card (%1)","Gift Card (%1)",module,Magento_GiftCardAccount
+"Gift Card (%1)","Ajándékkártya (%1)",module,Magento_GiftCardAccount
 "This won't take long . . .","This won't take long . . .",module,Magento_GiftCardAccount
-"Enter gift card code","Enter gift card code",module,Magento_GiftCardAccount
-"Redeem Gift Card","Redeem Gift Card",module,Magento_GiftCardAccount
-"Check status and balance","Check status and balance",module,Magento_GiftCardAccount
-"Have a gift card?","Have a gift card?",module,Magento_GiftCardAccount
-"Click here","Click here",module,Magento_GiftCardAccount
-"to redeem it.","to redeem it.",module,Magento_GiftCardAccount
-"Enter the gift card code","Enter the gift card code",module,Magento_GiftCardAccount
-"Check Gift Card status and balance","Check Gift Card status and balance",module,Magento_GiftCardAccount
-"Gift Card:","Gift Card:",module,Magento_GiftCardAccount
-"Current Balance:","Current Balance:",module,Magento_GiftCardAccount
-Expires:,Expires:,module,Magento_GiftCardAccount
-"Please enter a valid gift card code.","Please enter a valid gift card code.",module,Magento_GiftCardAccount
-"Add or remove gift cards","Add or remove gift cards",module,Magento_GiftCardAccount
+"Enter gift card code","Adja meg az ajándékkártya kódját",module,Magento_GiftCardAccount
+"Redeem Gift Card","Ajándékkártya beváltása",module,Magento_GiftCardAccount
+"Check status and balance","Állapot és az egyenleg ellenőrzése",module,Magento_GiftCardAccount
+"Have a gift card?","Van egy ajándékkártyája?",module,Magento_GiftCardAccount
+"Click here","Kattintson ide",module,Magento_GiftCardAccount
+"to redeem it.","hogy beváltsa.",module,Magento_GiftCardAccount
+"Enter the gift card code","Adja meg az ajándékkártya kódját",module,Magento_GiftCardAccount
+"Check Gift Card status and balance","Ajándékkártya állapotának és egyenlegének ellenőrzése",module,Magento_GiftCardAccount
+"Gift Card:",Ajándékkártya:,module,Magento_GiftCardAccount
+"Current Balance:","Aktuális egyenleg:",module,Magento_GiftCardAccount
+Expires:,Lejárat:,module,Magento_GiftCardAccount
+"Please enter a valid gift card code.","Adjon meg egy érvényes ajándékkártya kódot.",module,Magento_GiftCardAccount
+"Add or remove gift cards","Ajándékkártya hozzáadása vagy törlése",module,Magento_GiftCardAccount
 "Gift Card amount applied to order:","Gift Card amount applied to order:",module,Magento_GiftCardAccount
-"You've been sent a gift from %store_name","You've been sent a gift from %store_name",module,Magento_GiftCardAccount
+"You've been sent a gift from %store_name","Ön küldött egy ajándékkártyát a %store_name webáruházból",module,Magento_GiftCardAccount
 "%name,","%name,",module,Magento_GiftCardAccount
 "You've been sent a gift card for use at %store_name and it is now ready to be used for purchases.","You've been sent a gift card for use at %store_name and it is now ready to be used for purchases.",module,Magento_GiftCardAccount
-"Gift Card Code: %code","Gift Card Code: %code",module,Magento_GiftCardAccount
+"Gift Card Code: %code","Ajándékkártya kód: %code",module,Magento_GiftCardAccount
 "The card has a balance of %balance and can be used at","The card has a balance of %balance and can be used at",module,Magento_GiftCardAccount
 %store_name,%store_name,module,Magento_GiftCardAccount
-"Apply Gift Card","Apply Gift Card",module,Magento_GiftCardAccount
-"Gift Card:","Gift Card:",module,Magento_GiftCardAccount
+"Apply Gift Card","Ajándékkártya felhasználása",module,Magento_GiftCardAccount
+"Gift Card:",Ajándékkártya:,module,Magento_GiftCardAccount
 Apply,Alkalmazás,module,Magento_GiftCardAccount
 "See Balance","See Balance",module,Magento_GiftCardAccount
 "Gift Card amount applied to order:","Gift Card amount applied to order:",module,Magento_GiftCardAccount
@@ -5206,21 +5206,21 @@ Apply,Alkalmazás,module,Magento_GiftCardAccount
 "Gift Card Email Sender","Gift Card Email Sender",module,Magento_GiftCardAccount
 "Gift Card Template","Gift Card Template",module,Magento_GiftCardAccount
 "Gift Card Account General Settings","Gift Card Account General Settings",module,Magento_GiftCardAccount
-"Code Length","Code Length",module,Magento_GiftCardAccount
+"Code Length","Kód hossz",module,Magento_GiftCardAccount
 "Excluding prefix, suffix and separators.","Excluding prefix, suffix and separators.",module,Magento_GiftCardAccount
-"Code Format","Code Format",module,Magento_GiftCardAccount
-"Code Prefix","Code Prefix",module,Magento_GiftCardAccount
-"Code Suffix","Code Suffix",module,Magento_GiftCardAccount
+"Code Format","Kód formátum",module,Magento_GiftCardAccount
+"Code Prefix","Kód előtag",module,Magento_GiftCardAccount
+"Code Suffix","Kód utótag",module,Magento_GiftCardAccount
 "Dash Every X Characters","Dash Every X Characters",module,Magento_GiftCardAccount
-"if empty no separation","if empty no separation",module,Magento_GiftCardAccount
-"New Pool Size","New Pool Size",module,Magento_GiftCardAccount
-"Low Code Pool Threshold","Low Code Pool Threshold",module,Magento_GiftCardAccount
+"if empty no separation","ha üres a nincs elválasztás",module,Magento_GiftCardAccount
+"New Pool Size","Kódkészlet új mérete",module,Magento_GiftCardAccount
+"Low Code Pool Threshold","Alacsony kód készlet küszöbérték",module,Magento_GiftCardAccount
 "IMPORTANT: Be sure to save your configuration before running generation process.","IMPORTANT: Be sure to save your configuration before running generation process.",module,Magento_GiftCardAccount
 CSV,CSV,module,Magento_GiftCardAccount
 "Excel XML","Excel XML",module,Magento_GiftCardAccount
 "Are you sure you want to delete these gift card accounts?","Are you sure you want to delete these gift card accounts?",module,Magento_GiftCardAccount
-Code,Code,module,Magento_GiftCardAccount
-End,End,module,Magento_GiftCardAccount
+Code,Kód,module,Magento_GiftCardAccount
+End,Befejezés,module,Magento_GiftCardAccount
 "Gift Messages are not applicable for empty cart","Gift Messages are not applicable for empty cart",module,Magento_GiftMessage
 "Gift Messages are not applicable for virtual products","Gift Messages are not applicable for virtual products",module,Magento_GiftMessage
 "Gift Message is not available","Gift Message is not available",module,Magento_GiftMessage
