@@ -5689,26 +5689,26 @@ Creative,Kreatív,module,Magento_GoogleTagManager
 "Grouped Products","Grouped Products",module,Magento_GroupedProduct
 "Please specify the quantity of product(s).","Please specify the quantity of product(s).",module,Magento_GroupedProduct
 "Cannot process the item.","Cannot process the item.",module,Magento_GroupedProduct
-"Add Products to Group","Add Products to Group",module,Magento_GroupedProduct
+"Add Products to Group","Termékek hozzáadása a csoporthoz",module,Magento_GroupedProduct
 Cancel,Mégse,module,Magento_GroupedProduct
-"Add Selected Products","Add Selected Products",module,Magento_GroupedProduct
+"Add Selected Products","Kijelölt termékek hozzáadása",module,Magento_GroupedProduct
 "A grouped product is made up of multiple, standalone products that are presented as a group. You can offer variations of a single product, or group them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group.","A grouped product is made up of multiple, standalone products that are presented as a group. You can offer variations of a single product, or group them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group.",module,Magento_GroupedProduct
 Remove,Eltávolítás,module,Magento_GroupedProduct
 ID,Azonosító,module,Magento_GroupedProduct
 Thumbnail,Bélyegkép,module,Magento_GroupedProduct
 Name,Név,module,Magento_GroupedProduct
 "Attribute Set","Attribute Set",module,Magento_GroupedProduct
-Status,Status,module,Magento_GroupedProduct
+Status,Állapot,module,Magento_GroupedProduct
 SKU,Cikkszám,module,Magento_GroupedProduct
 Price,Ár,module,Magento_GroupedProduct
-"Default Quantity","Default Quantity",module,Magento_GroupedProduct
+"Default Quantity","Alapértelmezett mennyiség",module,Magento_GroupedProduct
 Actions,Műveletek,module,Magento_GroupedProduct
-"Associated Products","Associated Products",module,Magento_GroupedProduct
+"Associated Products","Hozzárendelt termékek",module,Magento_GroupedProduct
 Availability:,Elérhetőség:,module,Magento_GroupedProduct
 "Out of stock","Nincs raktáron",module,Magento_GroupedProduct
-"Product Name","Product Name",module,Magento_GroupedProduct
+"Product Name","Termék neve",module,Magento_GroupedProduct
 Qty,Mennyiség,module,Magento_GroupedProduct
-"No options of this product are available.","No options of this product are available.",module,Magento_GroupedProduct
+"No options of this product are available.","Ehhez a termékhez nincs lehetőség.",module,Magento_GroupedProduct
 "There are no grouped products.","There are no grouped products.",module,Magento_GroupedProduct
 "Default Qty","Alapértelmezett mennyiség",module,Magento_GroupedProduct
 "Starting at","Starting at",module,Magento_GroupedProduct
