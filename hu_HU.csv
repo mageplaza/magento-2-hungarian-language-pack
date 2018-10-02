@@ -111,11 +111,11 @@
 "Shopping Cart","Kosár",module,Magento_AdvancedCheckout
 "An error occurred. For details, see the error log.","Hiba lépett fel. Részletekért lásd a hiba log-ot.",module,Magento_AdvancedCheckout
 "You do not have access to this.","Nincs hozzáférése ehhez.",module,Magento_AdvancedCheckout
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdvancedCheckout
-"The ordered item needs to be loaded. Load the item and try again.","The ordered item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The quote item ID needs to be received. Set the ID and try again.","The quote item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
-"The quote item needs to be loaded. Load the item and try again.","The quote item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The wish list item ID needs to be received. Set the ID and try again.","The wish list item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
+"Orders can only be completed in an active store. Verify the store and try again.","Megrendeléseket csak aktív boltban lehet leadni. Ellenőrizze a bolt állapotát, és próbálkozzon újra.",module,Magento_AdvancedCheckout
+"The ordered item needs to be loaded. Load the item and try again.","A megrendelt elemet be kell tölteni. Töltse be az elemet, és próbálja újra.",module,Magento_AdvancedCheckout
+"The quote item ID needs to be received. Set the ID and try again.","A megadott elem azonosítóját be kell tölteni. Állítsa be az elem azonosítóját, és próbálja újra.",module,Magento_AdvancedCheckout
+"The quote item needs to be loaded. Load the item and try again.","A megadott elemet be kell tölteni. Töltse be az elemet, és próbálja újra.",module,Magento_AdvancedCheckout
+"The wish list item ID needs to be received. Set the ID and try again.","A kívánságlista elem azonosítóját be kell tölteni. Állítsa be az elem azonosítóját, és próbálja újra.",module,Magento_AdvancedCheckout
 "The wish list item needs to be loaded. Load the item and try again.","A kívánságlista elemet be kell tölteni. Töltse be az elemet, és próbálja újra.",module,Magento_AdvancedCheckout
 "An error has occurred. See error log for details.","Hiba történt. Részletek a hibanaplóban.",module,Magento_AdvancedCheckout
 "You cannot configure a product.","A terméket nem lehet konfigurálni.",module,Magento_AdvancedCheckout
@@ -241,34 +241,34 @@
 "Error while checking if topic is synchronous","Hiba téma szinkronitás ellenőrzése során",module,Magento_Amqp
 "Subscription status","Előfizetés állapota",module,Magento_Analytics
 "Sorry, there has been an error processing your request. Please try again later.","Sajnáljuk, de hiba történt a kérés feldolgozása során! Kérjük, próbálja meg később újra!",module,Magento_Analytics
-"The time value is using an unsupported format. Enter a supported format and try again.","The time value is using an unsupported format. Enter a supported format and try again.",module,Magento_Analytics
-"Cron settings can't be saved","Cron settings can't be saved",module,Magento_Analytics
+"The time value is using an unsupported format. Enter a supported format and try again.","Az idő nem támogatott formátumban lett megadva. Kérem adjon meg megfelelő formátumot, és próbálkozzon újra.",module,Magento_Analytics
+"Cron settings can't be saved","Nem lehet menteni a cron beállításokat",module,Magento_Analytics
 "There was an error save new configuration value.","Hiba történt az új konfigurációs érték mentése során!",module,Magento_Analytics
-"Please select an industry.","Please select an industry.",module,Magento_Analytics
+"Please select an industry.","Válassza ki az iparágat.",module,Magento_Analytics
 "--Please Select--","--Kérem, válasszon--",module,Magento_Analytics
 "Command was not found.","A parancs nem található!",module,Magento_Analytics
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","The data is invalid. Enter the data as a string or data that can be converted into a string and try again.",module,Magento_Analytics
-"The data is invalid. Enter the data as a string and try again.","The data is invalid. Enter the data as a string and try again.",module,Magento_Analytics
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Az érték érvénytelen. Adja meg az adatokat karakterláncként vagy úgy hogy karakterlánccá lehessen alakítani, majd próbálkozzon újra.",module,Magento_Analytics
+"The data is invalid. Enter the data as a string and try again.","Az érték érvénytelen. Adja meg az értéket karakerláncként, és próbálkozzon újra.",module,Magento_Analytics
 "The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again.",module,Magento_Analytics
-"Enter the encryption key and try again.","Enter the encryption key and try again.",module,Magento_Analytics
+"Enter the encryption key and try again.","Adja meg a titkosítási kulcsot, és próbálkozzon újra.",module,Magento_Analytics
 "The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist.",module,Magento_Analytics
 "These arguments can't be empty ""%1""","These arguments can't be empty ""%1""",module,Magento_Analytics
 "Cannot find predefined integration user!","Nem található az előre definiált felhasználóintegráció!",module,Magento_Analytics
-"File is not ready yet.","File is not ready yet.",module,Magento_Analytics
+"File is not ready yet.","A fájl még nincs kész.",module,Magento_Analytics
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.",module,Magento_Analytics
 "Failed to synchronize data to the Magento Business Intelligence service.","Failed to synchronize data to the Magento Business Intelligence service.",module,Magento_Analytics
-"Retry Synchronization","Retry Synchronization",module,Magento_Analytics
+"Retry Synchronization","Újraszinkronizálás",module,Magento_Analytics
 "TestMessage","Tesztüzenet",module,Magento_Analytics
 "Apps and Games","Alkalmazások és játékok",module,Magento_Analytics
 "Athletic/Sporting Goods","Sportszerek",module,Magento_Analytics
 "Art and Design","Művészet és dizájn",module,Magento_Analytics
-"Advanced Reporting","Advanced Reporting",module,Magento_Analytics
+"Advanced Reporting","Fejlett jelentéskészítés",module,Magento_Analytics
 "Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.",module,Magento_Analytics
-"Go to Advanced Reporting","Go to Advanced Reporting",module,Magento_Analytics
+"Go to Advanced Reporting","Ugrás a fejlett jelentéskészítésre",module,Magento_Analytics
 "Analytics","Analitika",module,Magento_Analytics
 "API","API",module,Magento_Analytics
 "Configuration","Beállítás",module,Magento_Analytics
-"Business Intelligence","Business Intelligence",module,Magento_Analytics
+"Business Intelligence","Üzleti intelligencia",module,Magento_Analytics
 "BI Essentials","BI Essentials",module,Magento_Analytics
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
@@ -277,9 +277,9 @@
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
                 ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
                 terms and conditions</a>.",module,Magento_Analytics
-"Advanced Reporting Service","Advanced Reporting Service",module,Magento_Analytics
+"Advanced Reporting Service","Fejlett jelentési szolgáltatás",module,Magento_Analytics
 "Time of day to send data","Time of day to send data",module,Magento_Analytics
-"Industry","Industry",module,Magento_Analytics
+"Industry","Ipar",module,Magento_Analytics
 "In order to personalize your Advanced Reporting experience, please select your industry.","In order to personalize your Advanced Reporting experience, please select your industry.",module,Magento_Analytics
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Get more insights from Magento Business Intelligence</strong>",module,Magento_Analytics
 "Magento Business Intelligence provides you with a simple and clear path to
@@ -287,24 +287,24 @@
                     href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
                     href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.",module,Magento_Analytics
-"Auto Parts","Auto Parts",module,Magento_Analytics
-"Baby/Children’s Apparel, Gear and Toys","Baby/Children’s Apparel, Gear and Toys",module,Magento_Analytics
-"Beauty and Cosmetics","Beauty and Cosmetics",module,Magento_Analytics
-"Books, Music and Magazines","Books, Music and Magazines",module,Magento_Analytics
-"Crafts and Stationery","Crafts and Stationery",module,Magento_Analytics
-"Consumer Electronics","Consumer Electronics",module,Magento_Analytics
-"Deal Site","Deal Site",module,Magento_Analytics
-"Fashion Apparel and Accessories","Fashion Apparel and Accessories",module,Magento_Analytics
-"Food, Beverage and Grocery","Food, Beverage and Grocery",module,Magento_Analytics
-"Home Goods and Furniture","Home Goods and Furniture",module,Magento_Analytics
-"Home Improvement","Home Improvement",module,Magento_Analytics
-"Jewelry and Watches","Jewelry and Watches",module,Magento_Analytics
-"Mass Merchant","Mass Merchant",module,Magento_Analytics
-"Office Supplies","Office Supplies",module,Magento_Analytics
-"Outdoor and Camping Gear","Outdoor and Camping Gear",module,Magento_Analytics
-"Pet Goods","Pet Goods",module,Magento_Analytics
-"Pharma and Medical Devices","Pharma and Medical Devices",module,Magento_Analytics
-"Technology B2B","Technology B2B",module,Magento_Analytics
+"Auto Parts","Autó alkatrészek",module,Magento_Analytics
+"Baby/Children’s Apparel, Gear and Toys","Baba/gyermek ruházat, felszerelés és játékok",module,Magento_Analytics
+"Beauty and Cosmetics","Szépségápolás és kozmetika",module,Magento_Analytics
+"Books, Music and Magazines","Könyvek, a zene és a magazinok",module,Magento_Analytics
+"Crafts and Stationery","Kézművesség és irodaszerek",module,Magento_Analytics
+"Consumer Electronics","Szórakoztató elektronika",module,Magento_Analytics
+"Deal Site","Akció oldal",module,Magento_Analytics
+"Fashion Apparel and Accessories","Ruházati cikkek és kiegészítők",module,Magento_Analytics
+"Food, Beverage and Grocery","Élelmiszer és ital",module,Magento_Analytics
+"Home Goods and Furniture","Lakberendezés és bútorok",module,Magento_Analytics
+"Home Improvement","Lakásfelújítás",module,Magento_Analytics
+"Jewelry and Watches","Ékszerek és órák",module,Magento_Analytics
+"Mass Merchant","Tömegtermék kereskedés",module,Magento_Analytics
+"Office Supplies","Irodai kellékek",module,Magento_Analytics
+"Outdoor and Camping Gear","Kültéri és kemping felszerelés",module,Magento_Analytics
+"Pet Goods","Kisállat termékek",module,Magento_Analytics
+"Pharma and Medical Devices","Gyógyszeripari és orvostechnikai eszközök",module,Magento_Analytics
+"Technology B2B","Technológia B2B",module,Magento_Analytics
 "Other","Other",module,Magento_Analytics
 "Back","Vissza",module,Magento_AsynchronousOperations
 "Done","Kész",module,Magento_AsynchronousOperations
@@ -312,11 +312,11 @@
 "'Action Details - #' .","""Művelet részletek - #"".",module,Magento_AsynchronousOperations
 "%1 item(s) have been scheduled for update.""","%1 elem frissítése beütemezve.""",module,Magento_AsynchronousOperations
 "Bulk Actions Log","Tömeges műveletek naplója",module,Magento_AsynchronousOperations
-"Bulk uuid %bulkUuid not exist","Bulk uuid %bulkUuid not exist",module,Magento_AsynchronousOperations
-"Topic %1","Topic %1",module,Magento_AsynchronousOperations
-"Something went wrong while processing the request.","Something went wrong while processing the request.",module,Magento_AsynchronousOperations
-"Error processing %key element of input data","Error processing %key element of input data",module,Magento_AsynchronousOperations
-"Sorry, something went wrong during product prices update. Please see log for details.","Sorry, something went wrong during product prices update. Please see log for details.",module,Magento_AsynchronousOperations
+"Bulk uuid %bulkUuid not exist","Tömeges uuid %bulkUuid nem létezik",module,Magento_AsynchronousOperations
+"Topic %1","Téma %1",module,Magento_AsynchronousOperations
+"Something went wrong while processing the request.","Hiba a kérelem feldolgozása közben.",module,Magento_AsynchronousOperations
+"Error processing %key element of input data","Hiba a %key bemeneti adat feldolgozásakor",module,Magento_AsynchronousOperations
+"Sorry, something went wrong during product prices update. Please see log for details.","Hiba történt a termék árak frissítésekor. Nézze meg a log-ot a részletekért.",module,Magento_AsynchronousOperations
 "%1 item(s) are currently being updated.","%1 elem frissítése megkezdődött.",module,Magento_AsynchronousOperations
 "Task ""%1"":","Feladat ""%1"":",module,Magento_AsynchronousOperations
 "%1 item(s) have been scheduled for update.","%1 elem frissítése beütemezve.",module,Magento_AsynchronousOperations
@@ -348,13 +348,13 @@
 "Dismiss All Completed Tasks","Minden befejezett feladat elutasítása",module,Magento_AsynchronousOperations
 "Action Details - #","Művelet részletek - #",module,Magento_AsynchronousOperations
 "Number of Records Affected","Módosított sorok száma",module,Magento_AsynchronousOperations
-"The role wasn't found for the user. Verify the role and try again.","The role wasn't found for the user. Verify the role and try again.",module,Magento_Authorization
+"The role wasn't found for the user. Verify the role and try again.","A szerepkör nincs beállítva a felhasználóhoz. Ellenőrizze a szerepeket, és próbálkozzon újra.",module,Magento_Authorization
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Hiba történt az engedélyezett erőforrások listájának összeállítása közben. Részletek a kivételek naplójában.",module,Magento_Authorization
 "You created the order.","A megrendelés létre lett hozva.",module,Magento_Authorizenet
 "Order saving error: %1","Hiba a rendelés mentése közben: %1",module,Magento_Authorizenet
 "Please choose a payment method.","Kérjük válasszon egy fizetési módot.",module,Magento_Authorizenet
 "We can't process your order right now. Please try again later.","Rendelését jelenleg nem tudjuk feldolgozni. Kérjük később próbálkozzon újra.",module,Magento_Authorizenet
-"A server error stopped your order from being placed. Please try to place your order again.","A server error stopped your order from being placed. Please try to place your order again.",module,Magento_Authorizenet
+"A server error stopped your order from being placed. Please try to place your order again.","Kiszolgáló hiba miatt a rendelését nem rögzítettük. Kérem próbálja meg újra leadni a rendelését.",module,Magento_Authorizenet
 "Credit Card: xxxx-%1","Hitelkártya: xxxx-%1",module,Magento_Authorizenet
 "amount %1","%1 összeg",module,Magento_Authorizenet
 "failed.","nem sikerült.",module,Magento_Authorizenet
@@ -382,7 +382,7 @@
 "Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","A %1 tranzakció érvénytelenítve vagy elutasítva. Tranzakció állapota: ""%2"". Összeg: %3.",module,Magento_Authorizenet
 "Authorize Only","Csak engedélyez",module,Magento_Authorizenet
 "Authorize and Capture","Engedélyez és levon",module,Magento_Authorizenet
-"The transaction details are unavailable. Please try again later.","The transaction details are unavailable. Please try again later.",module,Magento_Authorizenet
+"The transaction details are unavailable. Please try again later.","A tranzakció részletei nem elérhetőek. Kérjük, próbálja meg később újra.",module,Magento_Authorizenet
 "Electronic payments save the trees.","Elektronikus fizetéssel óvja a fákat.",module,Magento_Authorizenet
 "Credit Card Type","Hitelkártya-típus",module,Magento_Authorizenet
 "Please Select","Kérem válasszon",module,Magento_Authorizenet
@@ -419,15 +419,15 @@
 "Minimum Order Total","Minimális megrendelés végösszeg",module,Magento_Authorizenet
 "Maximum Order Total","Maximális megrendelés végösszeg",module,Magento_Authorizenet
 "Sort Order","Rendezési sorrend",module,Magento_Authorizenet
-"Close","Close",module,Magento_B2b
-"options","options",module,Magento_B2b
-"Select all","Select all",module,Magento_B2b
-"Deselect all","Deselect all",module,Magento_B2b
-"Cancel","Cancel",module,Magento_B2b
-"Done","Done",module,Magento_B2b
-"Please Select","Please Select",module,Magento_B2b
-"%s of %s selected","%s of %s selected",module,Magento_B2b
-"B2B Features","B2B Features",module,Magento_B2b
+"Close","Bezár",module,Magento_B2b
+"options","opciók",module,Magento_B2b
+"Select all","Összes kijelölése",module,Magento_B2b
+"Deselect all","Az összes kijelölés törlése",module,Magento_B2b
+"Cancel","Mégsem",module,Magento_B2b
+"Done","Kész",module,Magento_B2b
+"Please Select","Kérem válasszon",module,Magento_B2b
+"%s of %s selected","%s kijelölve a %s -ből",module,Magento_B2b
+"B2B Features","B2B szolgáltatások",module,Magento_B2b
 "Invalid Form Key. Please refresh the page.","Érvénytelen űrlapkulcs. Kérjük, frissítse a lapot!",module,Magento_Backend
 "You entered an invalid Secret Key. Please refresh the page.","Érvénytelen titkos kulcsot adott meg. Kérjük, frissítse a lapot!",module,Magento_Backend
 "Cache Storage Management","Gyorsítótárak kezelése",module,Magento_Backend
@@ -563,13 +563,13 @@
 "Invalid export type supplied for grid export block","Érvénytelen export típus a Grid Export Block-hoz",module,Magento_Backend
 "Export","Exportálás",module,Magento_Backend
 "Please correct the column format and try again.","Kérjük, javítsa az oszlop formátumát, majd próbálja újra!",module,Magento_Backend
-"An item needs to be selected. Select and try again.","An item needs to be selected. Select and try again.",module,Magento_Backend
+"An item needs to be selected. Select and try again.","Egy elemet ki kell választani. Jelölje ki, majd próbálkozzon újra.",module,Magento_Backend
 "Submit","Mehet",module,Magento_Backend
 "Unknown block type","Ismeretlen blokktípus",module,Magento_Backend
 "Please correct the tab configuration and try again. Tab Id should be not empty","Kérjük, javítsa a lapfül konfigurációt, és próbálja újra! A lapfül-azonosító nem lehet üres",module,Magento_Backend
 "Please correct the tab configuration and try again.","Kérjük, javítsa a lapfül beállításait, és próbálja újra!",module,Magento_Backend
 "You have logged out.","Ön kijelentkezett.",module,Magento_Backend
-"These cache type(s) don't exist: %1","These cache type(s) don't exist: %1",module,Magento_Backend
+"These cache type(s) don't exist: %1","%1 gyorsítótár típus nem létezik",module,Magento_Backend
 "The image cache was cleaned.","Kép-gyorsítótár kiürítve.",module,Magento_Backend
 "An error occurred while clearing the image cache.","Hiba történt a kép-gyorsítótár ürítése során!",module,Magento_Backend
 "The JavaScript/CSS cache has been cleaned.","JavaScript/CSS-gyorsítótár kiürítve.",module,Magento_Backend
@@ -638,23 +638,23 @@
 "YTD","Folyó év",module,Magento_Backend
 "2YTD","Az utolsó két év",module,Magento_Backend
 "Authentication storage is incorrect.","Érvénytelen hitelesítés-tároló.",module,Magento_Backend
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_Backend
-"An authentication error occurred. Verify and try again.","An authentication error occurred. Verify and try again.",module,Magento_Backend
-"The Admin session lifetime is invalid. Set the lifetime to 31536000 seconds (one year) or shorter and try again.","The Admin session lifetime is invalid. Set the lifetime to 31536000 seconds (one year) or shorter and try again.",module,Magento_Backend
-"The Admin session lifetime is invalid. Set the lifetime to 60 seconds or longer and try again.","The Admin session lifetime is invalid. Set the lifetime to 60 seconds or longer and try again.",module,Magento_Backend
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","A bejelentkezés a fiókjába hibás volt, vagy fiókja ideiglenesen le van tiltva. Várjon, majd próbálja meg újra később.",module,Magento_Backend
+"An authentication error occurred. Verify and try again.","Hitelesítési hiba. Ellenőrizze, és próbálja újra.",module,Magento_Backend
+"The Admin session lifetime is invalid. Set the lifetime to 31536000 seconds (one year) or shorter and try again.","Az admin munkafolyamat élettartama érvénytelen. Állítsa 31536000 másodpercre (egy év) vagy kevesebbre, és próbálja újra.",module,Magento_Backend
+"The Admin session lifetime is invalid. Set the lifetime to 60 seconds or longer and try again.","Az admin munkafolyamat élettartama érvénytelen. Állítsa 60 másodpercre vagy többre.",module,Magento_Backend
 "Order","Megrendelés",module,Magento_Backend
 "Order #%1","Megrendelés #%1",module,Magento_Backend
-"Save &amp; Continue","Save &amp; Continue",module,Magento_Backend
-"Save &amp; Close","Save &amp; Close",module,Magento_Backend
-"Save &amp; New","Save &amp; New",module,Magento_Backend
+"Save &amp; Continue","Mentés és folytatás",module,Magento_Backend
+"Save &amp; Close","Mentés és bezárás",module,Magento_Backend
+"Save &amp; New","Mentés és új",module,Magento_Backend
 "Edit","Edit",module,Magento_Backend
-"Sorry, you need permissions to view this content.","Sorry, you need permissions to view this content.",module,Magento_Backend
-"Next steps","Next steps",module,Magento_Backend
-"If you think this is an error, try signing out and signing in again.","If you think this is an error, try signing out and signing in again.",module,Magento_Backend
-"Contact a system administrator or store owner to gain permissions.","Contact a system administrator or store owner to gain permissions.",module,Magento_Backend
+"Sorry, you need permissions to view this content.","Sajnáljuk, jogosultságra van szüksége ennek a tartalomnak a megtekintéséhez.",module,Magento_Backend
+"Next steps","Következő lépések",module,Magento_Backend
+"If you think this is an error, try signing out and signing in again.","Ha úgy gondolja, ez egy egy hiba, jelentkezzen ki majd jelentkezzen be újra.",module,Magento_Backend
+"Contact a system administrator or store owner to gain permissions.","Lépjen kapcsolatba a rendszergazdával vagy a bolt tulajdonosával hogy jogosultságokat szerezzen.",module,Magento_Backend
 "Return to","Return to",module,Magento_Backend
 "HTTP_REFERER","HTTP_REFERER",module,Magento_Backend
-"previous page","previous page",module,Magento_Backend
+"previous page","előző oldal",module,Magento_Backend
 ".",".",module,Magento_Backend
 "javascript:history.back()","javascript:history.back()",module,Magento_Backend
 "Welcome, please sign in","Üdvözöljük! Kérjük, jelentkezzen be!",module,Magento_Backend
@@ -750,13 +750,13 @@
 "Connect Manager","Connect Manager",module,Magento_Backend
 "Package Extensions","Kiegészítő csomagok",module,Magento_Backend
 "Tools","Eszközök",module,Magento_Backend
-"Clean Cache Actions","Clean Cache Actions",module,Magento_Backend
-"Cache Types Management","Cache Types Management",module,Magento_Backend
-"Toggle Cache Type","Toggle Cache Type",module,Magento_Backend
-"Refresh Cache Type","Refresh Cache Type",module,Magento_Backend
-"Catalog Images Cache","Catalog Images Cache",module,Magento_Backend
-"Flush Js/Css","Flush Js/Css",module,Magento_Backend
-"Flush Static Files","Flush Static Files",module,Magento_Backend
+"Clean Cache Actions","Gyorsítótár ürítési műveletek",module,Magento_Backend
+"Cache Types Management","Gyorsítótár típusok kezelése",module,Magento_Backend
+"Toggle Cache Type","Gyorsítótár típus váltás",module,Magento_Backend
+"Refresh Cache Type","Gyorsítótár típus frissítése",module,Magento_Backend
+"Catalog Images Cache","Katalógusképek gyorsítótára",module,Magento_Backend
+"Flush Js/Css","Js/Css kiürítése",module,Magento_Backend
+"Flush Static Files","Statikus fájlok ürítése",module,Magento_Backend
 "Web Setup Wizard","Webtelepítő varázsló",module,Magento_Backend
 "Currency","Pénznem",module,Magento_Backend
 "Communications","Kommunikáció",module,Magento_Backend
@@ -774,10 +774,10 @@
 "Developer","Fejlesztő",module,Magento_Backend
 "Debug","Hibakeresés",module,Magento_Backend
 "Enabled Template Path Hints for Storefront","Sablon útvonaltippjeinek engedélyezése a vásárlói felületen",module,Magento_Backend
-"Enable Hints for Storefront with URL Parameter","Enable Hints for Storefront with URL Parameter",module,Magento_Backend
-"Parameter Value","Parameter Value",module,Magento_Backend
+"Enable Hints for Storefront with URL Parameter","Engedélyezi a tippeket a vásárlói felületen URL-cím paraméterrel",module,Magento_Backend
+"Parameter Value","Paraméterérték",module,Magento_Backend
 "Enabled Template Path Hints for Admin","Sablon útvonaltippjeinek engedélyezése az adminisztrációs felületen",module,Magento_Backend
-"Add Block Class Type to Hints","Add Block Class Type to Hints",module,Magento_Backend
+"Add Block Class Type to Hints","Blokk osztály típus hozzárendelése a tippekhez",module,Magento_Backend
 "Template Settings","Sablonbeállítások",module,Magento_Backend
 "Allow Symlinks","Szimbolikus linkek engedélyezése",module,Magento_Backend
 "Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Figyelem! A szolgáltatás engedélyezése nem javasolt ipari környezetben, mert potenciális biztonsági kockázatot jelent.",module,Magento_Backend
@@ -851,7 +851,7 @@
 "Web","Web",module,Magento_Backend
 "Url Options","URL-beállítások",module,Magento_Backend
 "Add Store Code to Urls","Boltkód hozzáadása az URL-ekhez",module,Magento_Backend
-"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third-party services (e.g. PayPal etc.).","<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third-party services (e.g. PayPal etc.).",module,Magento_Backend
+"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third-party services (e.g. PayPal etc.).","<strong style=""color:red""> Vigyázat!</strong> Áruház kód URL-címekben történő használatakor esetenként a rendszer nem működik megfelelően, ha a megadott URL-címek nélkül kódokat tárolja egy harmadik fél szolgáltatásainál (pl. PayPal fizetés, stb.).",module,Magento_Backend
 "Auto-redirect to Base URL","Automatikus átirányítás az Alap URL-re",module,Magento_Backend
 "Search Engine Optimization","Kereső motor optimalizáció",module,Magento_Backend
 "Use Web Server Rewrites","Web Server Rewrites használata",module,Magento_Backend
@@ -890,7 +890,7 @@
 "<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading""> 404-es hiba</h1> <p>Az oldal nem található.</p>",module,Magento_Backend
 "Community Edition","Közösségi kiadás",module,Magento_Backend
 "Default Theme","Alapértelmezett téma",module,Magento_Backend
-"If no value is specified, the system default is used. The system default may be modified by third-party extensions.","If no value is specified, the system default is used. The system default may be modified by third-party extensions.",module,Magento_Backend
+"If no value is specified, the system default is used. The system default may be modified by third-party extensions.","Ha nincs megadva érték, a rendszer alapértelmezett fogja használni. Az alapértelmezett értéket harmadik féltől származó bővítmények módosíthatják.",module,Magento_Backend
 "Applied Theme","Alkalmazott téma",module,Magento_Backend
 "Design Rule","Design szabály",module,Magento_Backend
 "User Agent Rules","Felhasználói ügynök szabályok",module,Magento_Backend
@@ -982,20 +982,20 @@
 "Type","Típus",module,Magento_Backup
 "Download","Letöltés",module,Magento_Backup
 "Action","Művelet",module,Magento_Backup
-"Dynamic Blocks","Dynamic Blocks",module,Magento_Banner
-"Add Dynamic Block","Add Dynamic Block",module,Magento_Banner
-"Save Dynamic Block","Save Dynamic Block",module,Magento_Banner
-"Delete Dynamic Block","Delete Dynamic Block",module,Magento_Banner
+"Dynamic Blocks","Dinamikus blokkok",module,Magento_Banner
+"Add Dynamic Block","Dinamikus blokk hozzáadása",module,Magento_Banner
+"Save Dynamic Block","Dinamikus blokk mentése",module,Magento_Banner
+"Delete Dynamic Block","Dinamikus blokk törlése",module,Magento_Banner
 "Save and Continue Edit","Mentés és szerkesztés folytatása",module,Magento_Banner
-"New Dynamic Block","New Dynamic Block",module,Magento_Banner
+"New Dynamic Block","Új Dinamikus blokk",module,Magento_Banner
 "Delete","Törlés",module,Magento_Banner
-"Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Banner
-"Reset","Reset",module,Magento_Banner
-"Save","Save",module,Magento_Banner
+"Are you sure you want to do this?","Biztosan ezt akarja tenni?",module,Magento_Banner
+"Reset","Visszaállítás",module,Magento_Banner
+"Save","Mentés",module,Magento_Banner
 "Content","Tartalom",module,Magento_Banner
 "Default Content","Alapértelmezett tartalom",module,Magento_Banner
 "No Default Content","Nincs alapértelmezett tartalom",module,Magento_Banner
-"Dynamic Block Default Content for All Store Views","Dynamic Block Default Content for All Store Views",module,Magento_Banner
+"Dynamic Block Default Content for All Store Views","Dinamikus blokk alapértelmezett tartalma minden bolt nézethez",module,Magento_Banner
 "Store View Specific Content","Bolt nézet specifikus tartalom",module,Magento_Banner
 "Use Default","Alapértelmezés használata",module,Magento_Banner
 "Related Promotions","Kapcsolódó akciók",module,Magento_Banner
@@ -1004,33 +1004,33 @@
 "Start Date","Kezdő dátum",module,Magento_Banner
 "End Date","Záró dátum",module,Magento_Banner
 "Status","Állapot",module,Magento_Banner
-"Dynamic Block Properties","Dynamic Block Properties",module,Magento_Banner
-"Dynamic Block Name","Dynamic Block Name",module,Magento_Banner
+"Dynamic Block Properties","Dinamikus blokk tulajdonságok",module,Magento_Banner
+"Dynamic Block Name","Dinamikus blokk neve",module,Magento_Banner
 "Active","Aktív",module,Magento_Banner
 "Inactive","Inaktív",module,Magento_Banner
 "Applies To","Vonatkozik",module,Magento_Banner
-"Any Dynamic Block Type","Any Dynamic Block Type",module,Magento_Banner
-"Specified Dynamic Block Types","Specified Dynamic Block Types",module,Magento_Banner
+"Any Dynamic Block Type","Bármilyen dinamikus blokk típus",module,Magento_Banner
+"Specified Dynamic Block Types","Meghatározott dinamikus blokk típus",module,Magento_Banner
 "Specify Types","Típusok megadása",module,Magento_Banner
-"Dynamic Block Information","Dynamic Block Information",module,Magento_Banner
-"Dynamic Block","Dynamic Block",module,Magento_Banner
-"Dynamic Block Type","Dynamic Block Type",module,Magento_Banner
+"Dynamic Block Information","Dinamikus blokk információ",module,Magento_Banner
+"Dynamic Block","Dinamikus blokk",module,Magento_Banner
+"Dynamic Block Type","Dinamikus blokk típusa",module,Magento_Banner
 "Visibility","Láthatóság",module,Magento_Banner
-"Are you sure you want to delete these dynamic blocks?","Are you sure you want to delete these dynamic blocks?",module,Magento_Banner
-"Related Dynamic Blocks","Related Dynamic Blocks",module,Magento_Banner
+"Are you sure you want to delete these dynamic blocks?","Biztos benne, hogy törölni akarja ezeket a dinamikus blokkokat?",module,Magento_Banner
+"Related Dynamic Blocks","Kapcsolódó dinamikus blokkok",module,Magento_Banner
 "Position","Pozició",module,Magento_Banner
 "This rule no longer exists.","Ez a szabály már nem létezik.",module,Magento_Banner
-"You deleted the dynamic block.","You deleted the dynamic block.",module,Magento_Banner
-"Something went wrong while deleting dynamic block data. Please review the action log and try again.","Something went wrong while deleting dynamic block data. Please review the action log and try again.",module,Magento_Banner
-"We cannot find a dynamic block to delete.","We cannot find a dynamic block to delete.",module,Magento_Banner
-"This dynamic block no longer exists.","This dynamic block no longer exists.",module,Magento_Banner
-"Edit Dynamic Block","Edit Dynamic Block",module,Magento_Banner
-"Please select a dynamic block(s).","Please select a dynamic block(s).",module,Magento_Banner
+"You deleted the dynamic block.","Dinamikus blokk törölve.",module,Magento_Banner
+"Something went wrong while deleting dynamic block data. Please review the action log and try again.","Valami nem sikerült a dinamikus blokk adatainak törlésekor. Kérjük nézze át a tevékenységnaplót, és próbálja újra.",module,Magento_Banner
+"We cannot find a dynamic block to delete.","A törlendő dinamikus blokk nem található.",module,Magento_Banner
+"This dynamic block no longer exists.","Ez a dinamikus blokk már nem létezik.",module,Magento_Banner
+"Edit Dynamic Block","Dinamikus blokk szerkesztése",module,Magento_Banner
+"Please select a dynamic block(s).","Kérjük, válasszon egy dinamikus blokkot.",module,Magento_Banner
 "You deleted %1 record(s).","%1 rekord törölve.",module,Magento_Banner
-"Something went wrong while mass-deleting dynamic blocks. Please review the action log and try again.","Something went wrong while mass-deleting dynamic blocks. Please review the action log and try again.",module,Magento_Banner
-"This dynamic block does not exist.","This dynamic block does not exist.",module,Magento_Banner
-"You saved the dynamic block.","You saved the dynamic block.",module,Magento_Banner
-"We cannot save the dynamic block.","We cannot save the dynamic block.",module,Magento_Banner
+"Something went wrong while mass-deleting dynamic blocks. Please review the action log and try again.","Valami nem sikerült a dinamikus blokkok tömeges törlésekor. Kérjük nézze át a tevékenységnaplót, és próbálja újra.",module,Magento_Banner
+"This dynamic block does not exist.","Ez a dinamikus blokk nem létezik.",module,Magento_Banner
+"You saved the dynamic block.","Dinamikus blokk elmentve.",module,Magento_Banner
+"We cannot save the dynamic block.","Nem lehet menteni a Dinamikus blokkot.",module,Magento_Banner
 "Please enter a name.","Írjon be egy nevet.",module,Magento_Banner
 "Please specify default content for at least one store view.","Kérjük, adja meg az alapértelmezett tartalmat legalább egy bolt nézethez.",module,Magento_Banner
 "-- None --","--Nincs--",module,Magento_Banner
@@ -1040,37 +1040,37 @@
 "Header","Fejléc",module,Magento_Banner
 "Left Column","Bal oldali oszlop",module,Magento_Banner
 "Right Column","Jobb oldali oszlop",module,Magento_Banner
-"Manage Dynamic Blocks","Manage Dynamic Blocks",module,Magento_Banner
-"Dynamic Blocks Rotator","Dynamic Blocks Rotator",module,Magento_Banner
-"Displays Specified or Promotion Dynamic Blocks","Displays Specified or Promotion Dynamic Blocks",module,Magento_Banner
-"Dynamic Blocks to Display","Dynamic Blocks to Display",module,Magento_Banner
-"Specified Dynamic Blocks","Specified Dynamic Blocks",module,Magento_Banner
+"Manage Dynamic Blocks","Dinamikus blokkok kezelése",module,Magento_Banner
+"Dynamic Blocks Rotator","Dinamikus blokkok forgató",module,Magento_Banner
+"Displays Specified or Promotion Dynamic Blocks","Megjeleníti a megadott vagy az akciós dinamikus blokkokat",module,Magento_Banner
+"Dynamic Blocks to Display","Megjelenítendő dinamikus blokkok",module,Magento_Banner
+"Specified Dynamic Blocks","Meghatározott dinamikus blokkok",module,Magento_Banner
 "Shopping Cart Promotions Related","Kapcsolódó bevásárló kosár akciók",module,Magento_Banner
 "Catalog Promotions Related","Kapcsolódó katalógus akciók",module,Magento_Banner
-"Restrict by Dynamic Block Types","Restrict by Dynamic Block Types",module,Magento_Banner
+"Restrict by Dynamic Block Types","Dinamikus blokk ok tiltása típusuk szerint",module,Magento_Banner
 "Rotation Mode","Forgatás mód",module,Magento_Banner
 "Display all instead of rotating","Mind megjelenítése a forgatás helyett",module,Magento_Banner
 "One at the time, Random","Egyszerre egyet, véletlenszerűen",module,Magento_Banner
 "One at the time, Series","Egyszerre egyet, sorban",module,Magento_Banner
 "One at the time, Shuffle","Egyszerre egyet, keverve",module,Magento_Banner
-"Specify Dynamic Blocks","Specify Dynamic Blocks",module,Magento_Banner
-"Dynamic Block Template","Dynamic Block Template",module,Magento_Banner
-"Dynamic Block Inline Template","Dynamic Block Inline Template",module,Magento_Banner
-"Name","Name",module,Magento_Banner
-"Status Label","Status Label",module,Magento_Banner
-"General Information","General Information",module,Magento_Banner
-"Back","Back",module,Magento_Banner
-"Enable Dynamic Block","Enable Dynamic Block",module,Magento_Banner
-"Use Default Value","Use Default Value",module,Magento_Banner
-"Cart price rules allows you to setup promotions for items that are in the shopping cart.","Cart price rules allows you to setup promotions for items that are in the shopping cart.",module,Magento_Banner
-"Add Cart Price Rules","Add Cart Price Rules",module,Magento_Banner
-"Related Catalog Price Rule","Related Catalog Price Rule",module,Magento_Banner
-"Catalog price rules allows you to setup promotions for an items in catalog.","Catalog price rules allows you to setup promotions for an items in catalog.",module,Magento_Banner
-"Cancel","Cancel",module,Magento_Banner
-"Add Selected","Add Selected",module,Magento_Banner
-"Remove","Remove",module,Magento_Banner
-"All Segments","All Segments",module,Magento_BannerCustomerSegment
-"Customer Segment","Customer Segment",module,Magento_BannerCustomerSegment
+"Specify Dynamic Blocks","Dinamikus blokkok meghatározása",module,Magento_Banner
+"Dynamic Block Template","Dinamikus blokk sablon",module,Magento_Banner
+"Dynamic Block Inline Template","Dinamikus blokk Inline sablon",module,Magento_Banner
+"Name","Név",module,Magento_Banner
+"Status Label","Státusz címke",module,Magento_Banner
+"General Information","Általános információk",module,Magento_Banner
+"Back","Vissza",module,Magento_Banner
+"Enable Dynamic Block","Dinamikus blokk bekapcsolása",module,Magento_Banner
+"Use Default Value","Alapértelmezett érték használata",module,Magento_Banner
+"Cart price rules allows you to setup promotions for items that are in the shopping cart.","Kosár ár szabályok lehetővé teszik, hogy beállítson promóciók a kosárban található cikkekhez.",module,Magento_Banner
+"Add Cart Price Rules","Kosár ár szabályok hozzáadása",module,Magento_Banner
+"Related Catalog Price Rule","Kapcsolódó katalógus ár szabály",module,Magento_Banner
+"Catalog price rules allows you to setup promotions for an items in catalog.","Katalógus ár szabályok lehetővé teszik, hogy beállítson akciókat termékekhez.",module,Magento_Banner
+"Cancel","Mégsem",module,Magento_Banner
+"Add Selected","Kijelölt(ek) hozzáadása",module,Magento_Banner
+"Remove","Eltávolítás",module,Magento_Banner
+"All Segments","Minden szegmens",module,Magento_BannerCustomerSegment
+"Customer Segment","Vásárló-szegmens",module,Magento_BannerCustomerSegment
 "Country","Ország",module,Magento_Braintree
 "Allowed Credit Card Types","Engedélyezett bankkártya-típusok",module,Magento_Braintree
 "Add Rule","Szabály hozzáadása",module,Magento_Braintree
@@ -1459,10 +1459,10 @@
 "Incorrect CAPTCHA","Érvénytelen CAPTCHA",module,Magento_Captcha
 "Incorrect CAPTCHA.","Érvénytelen CAPTCHA.",module,Magento_Captcha
 "The account is locked. Please wait and try again or contact %1.","A fiók zárolva. Kérlek várj és próbáld újra vagy lépj velünk kapcsolatba: %1.",module,Magento_Captcha
-"Please enter the letters and numbers from the image","Please enter the letters and numbers from the image",module,Magento_Captcha
+"Please enter the letters and numbers from the image","Kérlek, add meg a betűket és a számokat a képről",module,Magento_Captcha
 "<strong>Attention</strong>: Captcha is case sensitive.","<strong>Figyelem</strong>: A CAPTCHA kis- és nagybetű érzékeny.",module,Magento_Captcha
 "Reload captcha","CAPTCHA újratöltése",module,Magento_Captcha
-"Please type the letters and numbers below","Please type the letters and numbers below",module,Magento_Captcha
+"Please type the letters and numbers below","Kérlek, írd be a betűket és a zámokat alább",module,Magento_Captcha
 "Attention: Captcha is case sensitive.","Figyelem: A CAPTCHA kis- és nagybetű érzékeny.",module,Magento_Captcha
 "CAPTCHA","CAPTCHA",module,Magento_Captcha
 "Enable CAPTCHA in Admin","CAPTCHA engedélyezése az Adminban",module,Magento_Captcha
@@ -1792,7 +1792,7 @@
 "Clear Price","Ár törlése",module,Magento_Catalog
 "%1 and above","%1 és felette",module,Magento_Catalog
 "The filters are invalid. Set them in an array and try again.","The filters are invalid. Set them in an array and try again.",module,Magento_Catalog
-"The product wasn't registered.","The product wasn't registered.",module,Magento_Catalog
+"The product wasn't registered.","A termék nem lett regisztrálva.",module,Magento_Catalog
 "The store wasn't registered. Verify the store and try again.","The store wasn't registered. Verify the store and try again.",module,Magento_Catalog
 "Group price must be a number greater than 0.","Csoport árának nagyobbnak kell lennie 0-nál.",module,Magento_Catalog
 "Media Gallery converter should be an instance of EntryConverterInterface.","A médiatár konverter az EntityConverterInterface egy példányának kell lennie.",module,Magento_Catalog
@@ -2116,8 +2116,8 @@
 "Image Detail","Kép részletek",module,Magento_Catalog
 "Adding...","Hozzáadás...",module,Magento_Catalog
 "Added","Hozzáadva",module,Magento_Catalog
-"remaining","remaining",module,Magento_Catalog
-"too many","too many",module,Magento_Catalog
+"remaining","fennmaradó",module,Magento_Catalog
+"too many","túl sok",module,Magento_Catalog
 "does not implement Storage Interface","does not implement Storage Interface",module,Magento_Catalog
 "unselect all","összes kijelölés megszüntetése",module,Magento_Catalog
 "Inventory","Készletkezelés",module,Magento_Catalog
@@ -2170,7 +2170,7 @@
 "Use Static URLs for Media Content in WYSIWYG","Use Static URLs for Media Content in WYSIWYG",module,Magento_Catalog
 "Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.",module,Magento_Catalog
 "Top Level Category","Kategória legfelső szintje",module,Magento_Catalog
-"Default Layouts","Default Layouts",module,Magento_Catalog
+"Default Layouts","Alapértelmezett elrendezések",module,Magento_Catalog
 "Default Product Layout","Default Product Layout",module,Magento_Catalog
 "Default Category Layout","Default Category Layout",module,Magento_Catalog
 "Product Info Column","Product Info Column",module,Magento_Catalog
@@ -2291,11 +2291,11 @@
 "Skip to the end of the images gallery","Ugrás a képgaléria végére",module,Magento_Catalog
 "Skip to the beginning of the images gallery","Ugrás a képgaléria elejére",module,Magento_Catalog
 "Details","Részletek",module,Magento_Catalog
-"Recently Compared","Recently Compared",module,Magento_Catalog
-"Add To Cart","Add To Cart",module,Magento_Catalog
-"Add To Compare","Add To Compare",module,Magento_Catalog
-"Learn more","Learn more",module,Magento_Catalog
-"Recently Viewed","Recently Viewed",module,Magento_Catalog
+"Recently Compared","Legutoljára összehasonlítva",module,Magento_Catalog
+"Add To Cart","Kosárba",module,Magento_Catalog
+"Add To Compare","Összehasonlításhoz ad",module,Magento_Catalog
+"Learn more","További tudnivalók",module,Magento_Catalog
+"Recently Viewed","Nemrég megtekintve",module,Magento_Catalog
 "Edit Event","Esemény szerkesztése",module,Magento_CatalogEvent
 "Add Event","Esemény hozzáadása",module,Magento_CatalogEvent
 "Events","Események",module,Magento_CatalogEvent
@@ -14284,8 +14284,8 @@
 "Order History","Rendelés történet",theme,frontend/Magento/luma
 "View past orders","Korábbi rendelések megtekintése",theme,frontend/Magento/luma
 "Footer","Lábléc",theme,frontend/Magento/luma
-"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>About Us</a>",theme,frontend/Magento/luma
-"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Customer Service</a>",theme,frontend/Magento/luma
+"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>Rólunk</a>",theme,frontend/Magento/luma
+"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Vevőszolgálat</a>",theme,frontend/Magento/luma
 "<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend/Magento/luma
 "Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Nyitvatartás:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
 "Credit memo for your %store_name order","Jóváírás a %store_name megrendeléshez",theme,frontend/Magento/luma
@@ -14312,6 +14312,6 @@
 "Your shipping confirmation is below. Thank you again for your business.","A szállítási információ megerősítve. Köszönjük rendelését.",theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","A #%order_id megrendelés #%shipment_id azonosítójú szállítása",theme,frontend/Magento/luma
 "Update to your %store_name shipment","Változás a %store_name megrendeléssel kapcsolatban",theme,frontend/Magento/luma
-"My Account","My Account",theme,frontend/Magento/luma
+"My Account","Fiókom",theme,frontend/Magento/luma
 "Address Book","Címjegyzék",theme,frontend/Magento/luma
 "Account Information","Fiókadatok",theme,frontend/Magento/luma
