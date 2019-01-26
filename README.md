@@ -89,8 +89,11 @@ Unzip the Hungarian language pack to Magento 2 root folder. In this guide, we ex
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip master.zip app/i18n/Mageplaza/hu_hu
+unzip master.zip app/i18n/Mageplaza/
 ```
+
+Rename folder `magento-2-hungarian-language-pack` to `hu_hu`.
+
 
 You also can unzip locally and upload them to Magento 2 root folder.
 
@@ -110,7 +113,11 @@ To download and install Hungarian pack manually, you have to access to your serv
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `hu_HU.zip` into `app/i18n/mageplaza/hu_HU/hu_HU.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/hu_hu/hu_HU.csv`
+
+See this screenshot
+
+![Hungarian pack](https://i.imgur.com/tS668yC.png)
 
 #### Step 2: Flush cache
 
