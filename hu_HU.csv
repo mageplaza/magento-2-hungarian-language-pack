@@ -11952,7 +11952,7 @@ Products,Products,module,Magento_SharedCatalog
 "Permission with the same scope","Permission with the same scope",module,Magento_SharedCatalog
 "Assign Categories to Shared Catalog","Assign Categories to Shared Catalog",module,Magento_SharedCatalog
 "Something went wrong while scheduling operations.","Something went wrong while scheduling operations.",module,Magento_SharedCatalog
-"Sorry, something went wrong during product prices update. Please see log for details.","Sorry, something went wrong during product prices update. Please see log for details.",module,Magento_SharedCatalog
+"Sorry, something went wrong during product prices update. Please see log for details.","Hiba történt a termék árak frissítésekor. Nézze meg a log-ot a részletekért.",module,Magento_SharedCatalog
 "Assign custom prices to selected products","Assign custom prices to selected products",module,Magento_SharedCatalog
 "Something went wrong while processing the request.","Something went wrong while processing the request.",module,Magento_SharedCatalog
 "Could not save shared catalog.","Could not save shared catalog.",module,Magento_SharedCatalog
