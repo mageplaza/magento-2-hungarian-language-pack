@@ -117,11 +117,13 @@ To download and install Hungarian pack manually, you have to access to your serv
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/hu_hu/hu_HU.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/hu_hu/`
 
-See this screenshot
+See this screenshot:
 
 ![Hungarian pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **hu_hu**
 
 #### Step 2: Flush cache
 
