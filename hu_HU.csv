@@ -17,15 +17,15 @@
 "You need more permissions to save this setting.","Több jogosultságra van szükség a beállítás elmentéséhez.",module,Magento_AdminGws
 "Role Scopes","Szerepkör hatókörök",module,Magento_AdminGws
 "Custom","Egyedi",module,Magento_AdminGws
-"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view",module,Magento_AdminGws
+"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","Nincs jogosultsága elmenteni ezt az elemet az aktuális bolt nézetben. Váltson egy engedélyezett bolt nézetre",module,Magento_AdminGws
 "More permissions are needed to delete the ""%1"" item.","További engedélyek szükségesek a ""%1"" elem törléséhez.",module,Magento_AdminGws
-"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","This entity needs to be assigned to a store view. Verify the entity assignment and try again.",module,Magento_AdminGws
+"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Ezt az entitást ki kell rendelni egy bolt nézethez. Ellenőrizze az entitások hozzárendelését, és próbálkozzon újra.",module,Magento_AdminGws
 "Orders can only be completed in an active store. Verify the store and try again.","Megrendeléseket csak aktív boltban lehet leadni. Ellenőrizze a bolt állapotát, és próbálkozzon újra.",module,Magento_AdminGws
 "This item needs to be assigned to a store view. Assign item and try again.","Ezt a tételt egy áruházi nézethez kell hozzárendelni. Rendelje hozzá, és próbálkozzon újra.",module,Magento_AdminGws
 "More permissions are needed to save this item.","További engedélyek szükségesek az elem mentéséhez.",module,Magento_AdminGws
 "More permissions are needed to delete this item.","További engedélyek szükségesek az elem törléséhez.",module,Magento_AdminGws
 "More permissions are needed to view this item.","További engedélyek szükségesek az elem megtekintéséhez.",module,Magento_AdminGws
-"At least one website or store group needs to be selected. Select and try again.","At least one website or store group needs to be selected. Select and try again.",module,Magento_AdminGws
+"At least one website or store group needs to be selected. Select and try again.","Legalább egy weboldal vagy bolt csoportot ki kell választani. Jelölje ki, majd próbálkozzon újra.",module,Magento_AdminGws
 "More permissions are needed to set All Scopes to a Role.","További jogosultságokra van szükség ahhoz, hogy az összes hatókört egy szerephez beállítsa.",module,Magento_AdminGws
 "The ""%1"" website ID is incorrect. Verify the website ID and try again.","A(z) ""%1"" webhelyazonosító helytelen. Ellenőrizze a webhelyazonosítót, és próbálkozzon újra.",module,Magento_AdminGws
 "The ""%1"" store ID is incorrect. Verify the store ID and try again.","A ""%1"" boltazonosító érvénytelen. Ellenőrizze az azonosítót, és próbálja újra.",module,Magento_AdminGws
@@ -224,13 +224,13 @@
 "An error occurred. For details, see the error log.","Hiba történt. Részletekért lásd a hibanaplót.",module,Magento_AdvancedCheckout
 "Orders can only be completed in an active store. Verify the store and try again.","Megrendeléseket csak aktív boltban lehet leadni. Ellenőrizze a bolt állapotát, és próbálkozzon újra.",module,Magento_AdvancedCheckout
 "The ordered item needs to be loaded. Load the item and try again.","A megrendelt elemet be kell tölteni. Töltse be az elemet, és próbálja újra.",module,Magento_AdvancedCheckout
-"The quote item ID needs to be received. Set the ID and try again.","The quote item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
-"The quote item needs to be loaded. Load the item and try again.","The quote item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The wish list item ID needs to be received. Set the ID and try again.","The wish list item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
-"The wish list item needs to be loaded. Load the item and try again.","The wish list item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
+"The quote item ID needs to be received. Set the ID and try again.","A megadott elem azonosítóját be kell tölteni. Állítsa be az elem azonosítóját, és próbálja újra.",module,Magento_AdvancedCheckout
+"The quote item needs to be loaded. Load the item and try again.","A megadott elemet be kell tölteni. Töltse be az elemet, és próbálja újra.",module,Magento_AdvancedCheckout
+"The wish list item ID needs to be received. Set the ID and try again.","A kívánságlista elem azonosítóját be kell tölteni. Állítsa be az elem azonosítóját, és próbálja újra.",module,Magento_AdvancedCheckout
+"The wish list item needs to be loaded. Load the item and try again.","A kívánságlista elemet be kell tölteni. Töltse be az elemet, és próbálja újra.",module,Magento_AdvancedCheckout
 "The file is corrupt and can't be used.","Az állomány sérült, és nem használható.",module,Magento_AdvancedCheckout
 "Please correct the data sent.","Kérjük, javítsa a továbbított adatokat.",module,Magento_AdvancedPricingImportExport
-"Entity type model '%1' is not found","Entity type model '%1' is not found",module,Magento_AdvancedPricingImportExport
+"Entity type model '%1' is not found","'%1' entitás model típus nem található",module,Magento_AdvancedPricingImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Entitás típus modellnek a \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType egy példányának kell lennie",module,Magento_AdvancedPricingImportExport
 "There are no product types available for export","Nincsenek exportálható terméktípusok",module,Magento_AdvancedPricingImportExport
 "%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","%1 osztály nem valósítja meg, \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface",module,Magento_AdvancedRule
@@ -268,17 +268,17 @@
 "Error while checking if topic is synchronous","Hiba téma szinkronitás ellenőrzése során",module,Magento_Amqp
 "Subscription status","Előfizetés állapota",module,Magento_Analytics
 "Sorry, there has been an error processing your request. Please try again later.","Sajnáljuk, de hiba történt a kérés feldolgozása során! Kérjük, próbálja meg később újra!",module,Magento_Analytics
-"Time value has an unsupported format","Time value has an unsupported format",module,Magento_Analytics
+"Time value has an unsupported format","Az idő nem támogatott formátumban van megadva",module,Magento_Analytics
 "Cron settings can't be saved","Nem lehet menteni a cron beállításokat",module,Magento_Analytics
 "There was an error save new configuration value.","Hiba történt az új konfigurációs érték mentése során!",module,Magento_Analytics
 "Please select a vertical.","Kérjük, válasszon egy függőlegest!",module,Magento_Analytics
 "--Please Select--","--Kérem, válasszon--",module,Magento_Analytics
 "Command was not found.","A parancs nem található!",module,Magento_Analytics
-"Input data must be string or convertible into string.","Input data must be string or convertible into string.",module,Magento_Analytics
-"Input data must be non-empty string.","Input data must be non-empty string.",module,Magento_Analytics
+"Input data must be string or convertible into string.","A megadott adat nem karakterlánc, vagy nem konvertálható azzá.",module,Magento_Analytics
+"Input data must be non-empty string.","A megadott adatnak nem üres karakterláncnak kell lennie.",module,Magento_Analytics
 "Not valid cipher method.","Not valid cipher method.",module,Magento_Analytics
-"Encryption key can't be empty.","Encryption key can't be empty.",module,Magento_Analytics
-"Source ""%1"" is not exist","Source ""%1"" is not exist",module,Magento_Analytics
+"Encryption key can't be empty.","Titkosító kulcs nem lehet üres.",module,Magento_Analytics
+"Source ""%1"" is not exist","""%1"" forrás nem létezik",module,Magento_Analytics
 "These arguments can't be empty ""%1""","These arguments can't be empty ""%1""",module,Magento_Analytics
 "Cannot find predefined integration user!","Nem található az előre definiált felhasználóintegráció!",module,Magento_Analytics
 "File is not ready yet.","A fájl még nincs kész.",module,Magento_Analytics
@@ -332,15 +332,15 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Pet Goods","Kisállat termékek",module,Magento_Analytics
 "Pharma and Medical Devices","Gyógyszeripari és orvostechnikai eszközök",module,Magento_Analytics
 "Technology B2B","Technológia B2B",module,Magento_Analytics
-"Other","Other",module,Magento_Analytics
-"The time value is using an unsupported format. Enter a supported format and try again.","The time value is using an unsupported format. Enter a supported format and try again.",module,Magento_Analytics
-"Please select an industry.","Please select an industry.",module,Magento_Analytics
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","The data is invalid. Enter the data as a string or data that can be converted into a string and try again.",module,Magento_Analytics
-"The data is invalid. Enter the data as a string and try again.","The data is invalid. Enter the data as a string and try again.",module,Magento_Analytics
+"Other","Egyéb",module,Magento_Analytics
+"The time value is using an unsupported format. Enter a supported format and try again.","Az idő nem támogatott formátumban lett megadva. Kérem adjon meg megfelelő formátumot, és próbálkozzon újra.",module,Magento_Analytics
+"Please select an industry.","Válassza ki az iparágat.",module,Magento_Analytics
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Az érték érvénytelen. Adja meg az adatokat karakterláncként vagy úgy hogy karakterlánccá lehessen alakítani, majd próbálkozzon újra.",module,Magento_Analytics
+"The data is invalid. Enter the data as a string and try again.","Az érték érvénytelen. Adja meg az értéket karakterláncként, és próbálkozzon újra.",module,Magento_Analytics
 "The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again.",module,Magento_Analytics
-"Enter the encryption key and try again.","Enter the encryption key and try again.",module,Magento_Analytics
+"Enter the encryption key and try again.","Adja meg a titkosítási kulcsot, és próbálkozzon újra.",module,Magento_Analytics
 "The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist.",module,Magento_Analytics
-"Retry Synchronization","Retry Synchronization",module,Magento_Analytics
+"Retry Synchronization","Újraszinkronizálás",module,Magento_Analytics
 "Back","Vissza",module,Magento_AsynchronousOperations
 "Done","Kész",module,Magento_AsynchronousOperations
 "Retry","Újra",module,Magento_AsynchronousOperations
@@ -437,13 +437,13 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Enabled","Engedélyezve",module,Magento_Authorizenet
 "Payment Action","Fizetési művelet",module,Magento_Authorizenet
 "Title","Cím",module,Magento_Authorizenet
-"API Login ID","API Login ID",module,Magento_Authorizenet
+"API Login ID","API bejelentkezési azonosító",module,Magento_Authorizenet
 "Transaction Key","Tranzakciós kulcs",module,Magento_Authorizenet
-"Merchant MD5","Merchant MD5",module,Magento_Authorizenet
+"Merchant MD5","Kereskedő MD5",module,Magento_Authorizenet
 "New Order Status","Új megrendelés állapota",module,Magento_Authorizenet
 "Test Mode","Teszt mód",module,Magento_Authorizenet
 "Gateway URL","Átjáró URL",module,Magento_Authorizenet
-"Transaction Details URL","Transaction Details URL",module,Magento_Authorizenet
+"Transaction Details URL","Tranzakció részletei URL",module,Magento_Authorizenet
 "Accepted Currency","Elfogadott pénznemek",module,Magento_Authorizenet
 "Debug","Hibakeresés",module,Magento_Authorizenet
 "Email Customer","Ügyfél értesítése levélben",module,Magento_Authorizenet
@@ -456,12 +456,12 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Maximum Order Total","Maximális rendelési összeg",module,Magento_Authorizenet
 "Sort Order","Rendezési sorrend",module,Magento_Authorizenet
 "Cannot place order.","Rendelés sikertelen.",module,Magento_Authorizenet
-"'Gateway error: ' .","'Gateway error: ' .",module,Magento_Authorizenet
+"'Gateway error: ' .","'Átjáró hiba: ' .",module,Magento_Authorizenet
 "Unable to place order. Please try again later.","Nem sikerült a megrendelés. Kérjük próbálkozzon később.",module,Magento_Authorizenet
-"A server error stopped your order from being placed. Please try to place your order again.","A server error stopped your order from being placed. Please try to place your order again.",module,Magento_Authorizenet
-"The transaction details are unavailable. Please try again later.","The transaction details are unavailable. Please try again later.",module,Magento_Authorizenet
+"A server error stopped your order from being placed. Please try to place your order again.","Kiszolgáló hiba miatt a rendelését nem rögzítettük. Kérem próbálja meg újra leadni a rendelését.",module,Magento_Authorizenet
+"The transaction details are unavailable. Please try again later.","A tranzakció részletei nem elérhetőek. Kérjük, próbálja meg később újra.",module,Magento_Authorizenet
 "Authorize.Net Direct Post (Deprecated)","Authorize.Net Direct Post (Deprecated)",module,Magento_Authorizenet
-"Signature Key","Signature Key",module,Magento_Authorizenet
+"Signature Key","Aláírás kulcs",module,Magento_Authorizenet
 "There was an error while trying to process the request.","There was an error while trying to process the request.",module,Magento_AuthorizenetAcceptjs
 "This transaction cannot be refunded with its current status.","This transaction cannot be refunded with its current status.",module,Magento_AuthorizenetAcceptjs
 "Something went wrong in the payment gateway.","Hiba történt a fizetési átjáróban.",module,Magento_AuthorizenetAcceptjs
@@ -5088,7 +5088,7 @@ new products will be created. Use this step to customize images and price for yo
 "Tax/VAT number","Adószám",module,Magento_Customer
 "Phone Number","Telefonszám",module,Magento_Customer
 "Welcome to %store_name","Üdvözlet a %store_name webáruházban",module,Magento_Customer
-"%name,","%name,",module,Magento_Customer
+"%name,","%név",module,Magento_Customer
 "Welcome to %store_name.","Üdvözlet a %store_name webáruházban.",module,Magento_Customer
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","A bejelentkezéshez használja ezeket az adatokat fizetés közben vagy a <a href=""%customer_url"">Saját fiók</a> oldalon:",module,Magento_Customer
 "Email:","E-mail:",module,Magento_Customer
@@ -5119,12 +5119,12 @@ new products will be created. Use this step to customize images and price for yo
 "If you did not make this request, you can ignore this email and your password will remain the same.","Ha nem Ön kérvényezte a változtatást, nyugodtan figyelmen kívül hagyhatja ezt az e-mailt, a jelszó változatlan marad.",module,Magento_Customer
 "Your %store_name password has been changed","Az Ön %store_name jelszava megváltozott",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: password.","Kérvény érkezett hozzánk az Ön következő fiókadatainak megváltoztatására: %store_name: password.",module,Magento_Customer
-"Checkout as a new customer","Checkout as a new customer",module,Magento_Customer
+"Checkout as a new customer","Fizetés mint új vásárló",module,Magento_Customer
 "Creating an account has many benefits:","A fiók létrehozásának rengeteg előnye van:",module,Magento_Customer
 "See order and shipping status","A rendelési és szállítási állapot megtekintése",module,Magento_Customer
 "Track order history","Rendelés történet nyomonkövetése",module,Magento_Customer
 "Check out faster","Gyorsabb fizetés",module,Magento_Customer
-"Checkout using your account","Checkout using your account",module,Magento_Customer
+"Checkout using your account","Fizetés az Ön fiókjának használatával",module,Magento_Customer
 "Email Address","Email cím",module,Magento_Customer
 "Are you sure you want to do this?","Biztos benne, hogy végrehajtja a műveletet?",module,Magento_Customer
 "Are you sure you want to delete this address?","Biztos, hogy törli ezt a címet?",module,Magento_Customer
@@ -5181,15 +5181,15 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Lockout Time (minutes)","Zárolási idő (perc)",module,Magento_Customer
 "Enable Autocomplete on login/forgot password forms","Az automatikus szövegkiegészítés bekapcsolása a bejelentkezésnél és az elfelejtett jelszónál",module,Magento_Customer
 "Account Information Options","Account Information Options",module,Magento_Customer
-"Change Email Template","Change Email Template",module,Magento_Customer
-"Change Email and Password Template","Change Email and Password Template",module,Magento_Customer
+"Change Email Template","E-mail Sablon Megváltoztatása",module,Magento_Customer
+"Change Email and Password Template","E-mail cím és Jelszó sablon megváltoztatása",module,Magento_Customer
 "Name and Address Options","Név és cím beállítások",module,Magento_Customer
 "Number of Lines in a Street Address","A címben az utcanév sorainak száma",module,Magento_Customer
-"Valid range: 1-4","Valid range: 1-4",module,Magento_Customer
+"Valid range: 1-4","Érvényes tartomány: 1-4",module,Magento_Customer
 "Show Prefix","Előtag megjelenítése",module,Magento_Customer
 "The title that goes before name (Mr., Mrs., etc.)","Az előtag, ami a név előtt van (Mr., Mrs., stb.)",module,Magento_Customer
 "Prefix Dropdown Options","Előtag legördülő lehetősévek",module,Magento_Customer
-"Semicolon (;) separated values.<br/>Leave empty for open text field.","Semicolon (;) separated values.<br/>Leave empty for open text field.",module,Magento_Customer
+"Semicolon (;) separated values.<br/>Leave empty for open text field.","Pontosvesszővel (;) elválasztott értékek.<br/>Hagyja üresen a nyitott szövegmezőhöz.",module,Magento_Customer
 "Show Middle Name (initial)","Középső név megjelenítése (elöl)",module,Magento_Customer
 "Always optional.","Mindig választható.",module,Magento_Customer
 "Show Suffix","Utótag megjelenítése",module,Magento_Customer
@@ -5198,8 +5198,8 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Show Date of Birth","Születési dátum megjelenítése",module,Magento_Customer
 "Show Tax/VAT Number","Adószám megjelenítése",module,Magento_Customer
 "Show Gender","Nem megjelenítése",module,Magento_Customer
-"Show Telephone","Show Telephone",module,Magento_Customer
-"Show Company","Show Company",module,Magento_Customer
+"Show Telephone","Telefonszám megjelenítése",module,Magento_Customer
+"Show Company","Cégnév megjelenítése",module,Magento_Customer
 "Show Fax","Show Fax",module,Magento_Customer
 "Login Options","Bejelentkezési beállítások",module,Magento_Customer
 "Redirect Customer to Account Dashboard after Logging in","Vevő átirányítása a saját fiókjának irányítópultjára bejelentkezés után",module,Magento_Customer
@@ -5208,7 +5208,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Online Customers Options","Online vásárlók beállítások",module,Magento_Customer
 "Online Minutes Interval","Bejelentkezés időtartama percben",module,Magento_Customer
 "Leave empty for default (15 minutes).","Hagyja üresen az alapértelmezett értékhez (15 perc).",module,Magento_Customer
-"Customer Data Lifetime","Customer Data Lifetime",module,Magento_Customer
+"Customer Data Lifetime","Vevő adatok élettartama",module,Magento_Customer
 "Please specify value in minutes.","Please specify value in minutes.",module,Magento_Customer
 "Customer Notification","Vásárló figyelmeztetések",module,Magento_Customer
 "Assign a Customer Group","Vevőcsoport hozzárendelése",module,Magento_Customer
@@ -5272,7 +5272,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "The password for your account has been successfully changed.","A fiók jelszavának módosítása sikeresen megtörtént.",module,Magento_Customer
 "If you did not request this change, please contact us.","Ha ezt a változást nem kérte, kérjük lépjen kapcsolatba velünk.",module,Magento_Customer
 "Checkout out as a new customer","Fizetés mint új vásárló",module,Magento_Customer
-"Create Account","Create Account",module,Magento_Customer
+"Create Account","Fiók létrehozása",module,Magento_Customer
 "Checkout out using your account","Fizetés az Ön fiókjának használatával",module,Magento_Customer
 "Recovery Link Expiration Period (days)","Helyreállítási link lejárati idő (nap)",module,Magento_Customer
 "Leave empty for default (2). Valid range: 1-4","Hagyja üresen az alapértelmezett értékhez (2). Érvényes értéktartomány: 1-4",module,Magento_Customer
@@ -5280,9 +5280,9 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Last Logged In","Utolsó bejelentkezés",module,Magento_Customer
 "If your Magento site has multiple views, you can set the scope to apply to a specific view.","Ha a Magento weboldalnak több nézete van, beállítható melyik bolt nézetre vonatkozzon a hatókör.",module,Magento_Customer
 "You are signed out.","Ön kijelentkezett.",module,Magento_Customer
-"Invalid value of ""%value"" provided for the %fieldName field. Possible values are %template1 or %template2.","Invalid value of ""%value"" provided for the %fieldName field. Possible values are %template1 or %template2.",module,Magento_Customer
-"Could not authenticate. Please try again later","Could not authenticate. Please try again later",module,Magento_Customer
-"Page not found","Page not found",module,Magento_Customer
+"Invalid value of ""%value"" provided for the %fieldName field. Possible values are %template1 or %template2.","%fieldName mező ""%value"" értéke érvénytelen. Lehetséges értékei: %template1 vagy %template2.",module,Magento_Customer
+"Could not authenticate. Please try again later","Nem lehet hitelesíteni. Kérem próbálja később",module,Magento_Customer
+"Page not found","Az oldal nem található",module,Magento_Customer
 "Account will be unlocked after provided time.","Account will be unlocked after provided time.",module,Magento_Customer
 "Text","Szöveg",module,Magento_Customer
 "Text One Line","Text One Line",module,Magento_Customer
@@ -5293,21 +5293,21 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 " Example: "," Példa: ",module,Magento_Customer
 "If you believe it is the right one you can ignore this notice.","Ha úgy véli, hogy ez a megfelelő, nyugodtan hagyja figyelmen kívül ezt az értesítést.",module,Magento_Customer
 "Invalid Form Key. Please refresh the page.","Érvénytelen űrlapkulcs. Kérjük, frissítse a lapot!",module,Magento_Customer
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_Customer
-"The password doesn't match this account. Verify the password and try again.","The password doesn't match this account. Verify the password and try again.",module,Magento_Customer
-"The email address is incorrect. Verify the email address and try again.","The email address is incorrect. Verify the email address and try again.",module,Magento_Customer
-"The customer ID isn't defined.","The customer ID isn't defined.",module,Magento_Customer
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","A bejelentkezés a fiókjába hibás volt, vagy fiókja ideiglenesen le van tiltva. Várjon, majd próbálja meg újra később.",module,Magento_Customer
+"The password doesn't match this account. Verify the password and try again.","A jelszó nem illeszkedik ehhez a fiókhoz. Kérem ellenőrizze a jelszót, és próbálja újra.",module,Magento_Customer
+"The email address is incorrect. Verify the email address and try again.","Az e-mail cím nem érvényes. Kérem ellenőrizze a címet és próbálja újra.",module,Magento_Customer
+"The customer ID isn't defined.","Vevő azonosító nincs megadva.",module,Magento_Customer
 "The quote items are incorrect. Verify the quote items and try again.","The quote items are incorrect. Verify the quote items and try again.",module,Magento_Customer
-"The ""%1"" section source isn't supported.","The ""%1"" section source isn't supported.",module,Magento_Customer
-"Confirmation isn't needed.","Confirmation isn't needed.",module,Magento_Customer
-"The account is already active.","The account is already active.",module,Magento_Customer
+"The ""%1"" section source isn't supported.","""%1"" szakasz forrás nem támogatott.",module,Magento_Customer
+"Confirmation isn't needed.","Megerősítés nem szükséges.",module,Magento_Customer
+"The account is already active.","A fiók már aktív.",module,Magento_Customer
 "The confirmation token is invalid. Verify the token and try again.","The confirmation token is invalid. Verify the token and try again.",module,Magento_Customer
 "This account isn't confirmed. Verify and try again.","This account isn't confirmed. Verify and try again.",module,Magento_Customer
 "The password needs at least %1 characters. Create a new password and try again.","The password needs at least %1 characters. Create a new password and try again.",module,Magento_Customer
 "The password can't begin or end with a space. Verify the password and try again.","The password can't begin or end with a space. Verify the password and try again.",module,Magento_Customer
 "The password can't be the same as the email address. Create a new password and try again.","The password can't be the same as the email address. Create a new password and try again.",module,Magento_Customer
 "The store view is not in the associated website.","The store view is not in the associated website.",module,Magento_Customer
-"A customer with the same email address already exists in an associated website.","A customer with the same email address already exists in an associated website.",module,Magento_Customer
+"A customer with the same email address already exists in an associated website.","Egy ügyfél ugyanazzal emailcímmel már létezik a kapcsolódó weboldalon.",module,Magento_Customer
 """%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again.",module,Magento_Customer
 "The password token is mismatched. Reset and try again.","The password token is mismatched. Reset and try again.",module,Magento_Customer
 "The password token is expired. Reset and try again.","The password token is expired. Reset and try again.",module,Magento_Customer
@@ -5339,17 +5339,17 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Set as default shipping","Set as default shipping",module,Magento_Customer
 "Set address as default shipping","Set address as default shipping",module,Magento_Customer
 "Are you sure you want to set the address as default shipping address?","Are you sure you want to set the address as default shipping address?",module,Magento_Customer
-"Delete address","Delete address",module,Magento_Customer
+"Delete address","Cím törlése",module,Magento_Customer
 "Are you sure you want to delete the address?","Are you sure you want to delete the address?",module,Magento_Customer
 "Additional addresses","Additional addresses",module,Magento_Customer
 "State","Megye",module,Magento_Customer
 "Actions","Műveletek",module,Magento_Customer
 "Sorry, there has been an error processing your request. Please try again later.","Sajnáljuk, de hiba történt a kérés feldolgozása során! Kérjük, próbálja meg később újra!",module,Magento_Customer
-"Reset password","Reset password",module,Magento_Customer
+"Reset password","Jelszó visszaállítása",module,Magento_Customer
 "Invalidate tokens","Invalidate tokens",module,Magento_Customer
-"Update Address","Update Address",module,Magento_Customer
-"Name Prefix","Name Prefix",module,Magento_Customer
-"Name Suffix","Name Suffix",module,Magento_Customer
+"Update Address","Cím módosítása",module,Magento_Customer
+"Name Prefix","Név előtag",module,Magento_Customer
+"Name Suffix","Név utótag",module,Magento_Customer
 "Middle Name/Initial","Middle Name/Initial",module,Magento_Customer
 "Are you sure to delete selected address?","Are you sure to delete selected address?",module,Magento_Customer
 "Are you sure you want to delete the selected customers?","Are you sure you want to delete the selected customers?",module,Magento_Customer
@@ -16387,7 +16387,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Please enter valid SKU key.","Adjon meg egy érvényes cikkszám kulcsot.",lib,web
 "Please enter a valid number.","Adjon meg egy érvényes számot.",lib,web
 "This is required field","Ez a mező kitöltendő",lib,web
-"Admin is a required field in each row.","Admin is a required field in each row.",lib,web
+"Admin is a required field in each row.","Admin egy szükséges mező minden sorban.",lib,web
 "Password cannot be the same as email address.","Jelszó nem lehet ugyanaz, mint az e-mail cím.",lib,web
 "Please fix this field.","Kérjük javítsa ki ezt a mezőt.",lib,web
 "Please enter a valid email address.","Kérjük, adjon meg egy érvényes email címet.",lib,web
@@ -16410,17 +16410,17 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Please enter a date from the past.","Adjon meg egy dátumot a múltból.",lib,web
 "Maximum length of this field must be equal or less than %1 symbols.","A mező maximális hosszának kisebbnek vagy egyenlőnek kell lennie mint %1 szimbólumok.",lib,web
 "Admin is a required field in the each row.","Admin egy szükséges mező minden sorban.",lib,web
-"Please enter a quantity greater than 0.","Please enter a quantity greater than 0.",lib,web
+"Please enter a quantity greater than 0.","Kérem adjon meg egy nullánál nagyobb mennyiséget.",lib,web
 "The fewest you may purchase is %1.","A legkisebb rendelhető mennyiség %1.",lib,web
-"The maximum you may purchase is %1.","The maximum you may purchase is %1.",lib,web
+"The maximum you may purchase is %1.","A legnagyobb rendelhető mennyiség %1.",lib,web
 "You can buy this product only in quantities of %1 at a time.","Ebből a termékből egyszerre csak %1 darabot vásárolhat.",lib,web
 "Forbidden extensions has been used. Avoid usage of ","Forbidden extensions has been used. Avoid usage of ",lib,web
-"No marginal white space please","No marginal white space please",lib,web
-"Please enter 6 or more characters. Leading or trailing spaces will be ignored.","Please enter 6 or more characters. Leading or trailing spaces will be ignored.",lib,web
-"Enter valid SKU key","Enter valid SKU key",lib,web
+"No marginal white space please","Kérem ne adjon meg szóközöket",lib,web
+"Please enter 6 or more characters. Leading or trailing spaces will be ignored.","Kérem írjon be 6 vagy több karaktert. A szóközök a karakterlánc elején és végén figyelmen kívül lesznek hagyva.",lib,web
+"Enter valid SKU key","Adjon meg érvényes cikkszámot",lib,web
 "Swatch and Admin are the required fields in the each row.","Swatch and Admin are the required fields in the each row.",lib,web
-"Insert Variable","Insert Variable",lib,web
+"Insert Variable","Változó beszúrása",lib,web
 "Insert Widget","Felületi elem beszúrása",lib,web
-"The widget %1 is no longer available. Select a different widget.","The widget %1 is no longer available. Select a different widget.",lib,web
-"First character must be letter.","First character must be letter.",lib,web
-"The password can't be the same as the email address. Create a new password and try again.","The password can't be the same as the email address. Create a new password and try again.",lib,web
+"The widget %1 is no longer available. Select a different widget.","A %1 widget már nem érhető el. Válasszon másik widgetet.",lib,web
+"First character must be letter.","Az első karakternek betűnek kell lennie.",lib,web
+"The password can't be the same as the email address. Create a new password and try again.","A jelszó nem lehet ugyan az mint az email cím. Kérem használjon másik jelszót, és próbálja meg még egyszer.",lib,web
