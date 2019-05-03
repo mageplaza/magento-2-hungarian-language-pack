@@ -4,6 +4,7 @@ Continue providing the translation guides into other languages over the world, a
 
 Read more [Magento 2 Hungarian Language Pack](https://www.mageplaza.com/magento-2-hungarian-language-pack.html)
 
+![Mageplaza Hungarian language pack](https://i.imgur.com/qjWPj1W.png)
 
 ## Overview
 
