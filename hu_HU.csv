@@ -16222,73 +16222,73 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Transaction has been canceled","Transaction has been canceled",module,Magento_Worldpay
 "Transaction has been declined","Transaction has been declined",module,Magento_Worldpay
 "The response type is incorrect. Verify the type and try again.","The response type is incorrect. Verify the type and try again.",module,Magento_Worldpay
-"Summary","Összefoglaló",theme,frontend/Magento/blank
-"Account Dashboard","Felhasználói fiók irányítópult",theme,frontend/Magento/blank
-"Account Information","Fiókadatok",theme,frontend/Magento/blank
-"Address Book","Címjegyzék",theme,frontend/Magento/blank
-"Menu","Menü",theme,frontend/Magento/blank
-"Account","Fiók",theme,frontend/Magento/blank
-"Settings","Beállítások",theme,frontend/Magento/blank
-"Now Shopping by","Aktív szűrőfeltételek",theme,frontend/Magento/luma
-"Previous","Előző",theme,frontend/Magento/luma
-"Remove","Eltávolítás",theme,frontend/Magento/luma
-"Remove This Item","Termék eltávolítása",theme,frontend/Magento/luma
-"Shop By","Szűrés",theme,frontend/Magento/luma
-"Clear All","Összes törlése",theme,frontend/Magento/luma
-"Shopping Options","Vásárlási beállítások",theme,frontend/Magento/luma
-"Welcome to %store_name","Üdvözlet a %store_name webáruházban",theme,frontend/Magento/luma
-"%name,","%name,",theme,frontend/Magento/luma
-"Welcome to %store_name.","Üdvözlet a %store_name webáruházban.",theme,frontend/Magento/luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","A bejelentkezéshez használja ezeket az adatokat fizetés közben vagy a <a href=""%customer_url"">Saját fiók</a> oldalon:",theme,frontend/Magento/luma
-"Email:","E-mail:",theme,frontend/Magento/luma
-"Password:","Jelszó:",theme,frontend/Magento/luma
-"Password you set when creating account","Jelszó beállítva a felhasználói fiók létrehozásakor",theme,frontend/Magento/luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Elfelejtette a jelszavát? <a href=""%reset_url"">Kattintson ide</a> a visszaállításhoz.",theme,frontend/Magento/luma
-"When you sign in to your account, you will be able to:","Ha bejelentkezel a felhasználói fiókodba, képes leszel:",theme,frontend/Magento/luma
-"Quick Checkout","Gyors fizetés",theme,frontend/Magento/luma
-"Proceed through checkout faster","Gyorsabb vásárlásra",theme,frontend/Magento/luma
-"Order Status","Megrendelés állapota",theme,frontend/Magento/luma
-"Check the status of orders","Rendelések állapotának ellenőrzésére",theme,frontend/Magento/luma
-"Manage Addresses","Címek kezelése",theme,frontend/Magento/luma
-"Store alternative addresses","Alternatív címek tárolása",theme,frontend/Magento/luma
-"For shipping to multiple family members and friends","Szállítás több családtagnak és barátnak",theme,frontend/Magento/luma
-"Order History","Korábbi rendelések",theme,frontend/Magento/luma
-"View past orders","Korábbi rendelések megtekintésére",theme,frontend/Magento/luma
-"Footer","Lábléc",theme,frontend/Magento/luma
-"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>Rólunk</a>",theme,frontend/Magento/luma
-"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Vevőszolgálat</a>",theme,frontend/Magento/luma
-"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend/Magento/luma
-"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Nyitvatartás:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
-"Credit memo for your %store_name order","Jóváírás a %store_name megrendeléshez",theme,frontend/Magento/luma
-"Thank you for your order from %store_name.","Köszönjük a %store_name webáruházban leadott megrendelést.",theme,frontend/Magento/luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","A rendelés állapotát ellenőrizheted, ha <a href=""%account_url"">bejelentkezel a felhasználói fiókodba</a>.",theme,frontend/Magento/luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Ha kérdésed van a rendeléseddel kapcsolatban, <a href=""mailto:%store_email"">%store_email</a> címre írj nekünk.",theme,frontend/Magento/luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Az ön jóváírása #%creditmemo_id a(z) #%order_id számú megrendeléshez",theme,frontend/Magento/luma
-"Billing Info","Számlázási információk",theme,frontend/Magento/luma
-"Shipping Info","Szállítási információk",theme,frontend/Magento/luma
-"Payment Method","Fizetési mód",theme,frontend/Magento/luma
-"Shipping Method","Szállítási mód",theme,frontend/Magento/luma
-"Update to your %store_name credit memo","Frissítés a %store_name jóváíráshoz",theme,frontend/Magento/luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","A(z) #%increment_id számú megrendelés státusza frissült: <strong>%order_status</strong>.",theme,frontend/Magento/luma
-"Invoice for your %store_name order","A(z) %store_name rendelés számlája",theme,frontend/Magento/luma
-"Your Invoice #%invoice_id for Order #%order_id","A(z) #%order_id számú rendelés #%invoice_id azonosítójú számlája",theme,frontend/Magento/luma
-"Update to your %store_name invoice","Az Ön %store_name számla frissítése",theme,frontend/Magento/luma
-"Your %store_name order confirmation","Az Ön %store_name rendelés-visszaigazolása",theme,frontend/Magento/luma
-"%customer_name,","%customer_name,",theme,frontend/Magento/luma
-"Once your package ships we will send you a tracking number.","Ha a csomag szállításra kész, elküldjük a nyomkövetési kódot.",theme,frontend/Magento/luma
-"Your Order <span class=""no-link"">#%increment_id</span>","A z Ön rendelése <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
-"Placed on <span class=""no-link"">%created_at</span>","Rendelés ideje: <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
-"Update to your %store_name order","%store_name megrendeléssel kapcsolatos válzozások",theme,frontend/Magento/luma
-"Your %store_name order has shipped","A %store_name megrendelése szállításra került",theme,frontend/Magento/luma
-"Your shipping confirmation is below. Thank you again for your business.","A szállítási információ megerősítve. Köszönjük rendelését.",theme,frontend/Magento/luma
-"Your Shipment #%shipment_id for Order #%order_id","A #%order_id megrendelés #%shipment_id azonosítójú szállítása",theme,frontend/Magento/luma
-"Update to your %store_name shipment","Változás a %store_name megrendeléssel kapcsolatban",theme,frontend/Magento/luma
-"Account Dashboard","Felhasználói fiók irányítópult",theme,frontend/Magento/luma
-"Address Book","Címjegyzék",theme,frontend/Magento/luma
-"Account Information","Fiókadatok",theme,frontend/Magento/luma
-"About Us","Rólunk",theme,frontend/Magento/luma
-"Customer Service","Ügyfélszolgálat",theme,frontend/Magento/luma
-"My Account","Saját fiók",theme,frontend/Magento/luma
+"Summary","Összefoglaló",theme,frontend\Magento\blank
+"Account Dashboard","Felhasználói fiók irányítópult",theme,frontend\Magento\blank
+"Account Information","Fiókadatok",theme,frontend\Magento\blank
+"Address Book","Címjegyzék",theme,frontend\Magento\blank
+"Menu","Menü",theme,frontend\Magento\blank
+"Account","Fiók",theme,frontend\Magento\blank
+"Settings","Beállítások",theme,frontend\Magento\blank
+"Now Shopping by","Aktív szűrőfeltételek",theme,frontend\Magento\luma
+"Previous","Előző",theme,frontend\Magento\luma
+"Remove","Eltávolítás",theme,frontend\Magento\luma
+"Remove This Item","Termék eltávolítása",theme,frontend\Magento\luma
+"Shop By","Szűrés",theme,frontend\Magento\luma
+"Clear All","Összes törlése",theme,frontend\Magento\luma
+"Shopping Options","Vásárlási beállítások",theme,frontend\Magento\luma
+"Welcome to %store_name","Üdvözlet a %store_name webáruházban",theme,frontend\Magento\luma
+"%name,","%name,",theme,frontend\Magento\luma
+"Welcome to %store_name.","Üdvözlet a %store_name webáruházban.",theme,frontend\Magento\luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","A bejelentkezéshez használja ezeket az adatokat fizetés közben vagy a <a href=""%customer_url"">Saját fiók</a> oldalon:",theme,frontend\Magento\luma
+"Email:","E-mail:",theme,frontend\Magento\luma
+"Password:","Jelszó:",theme,frontend\Magento\luma
+"Password you set when creating account","Jelszó beállítva a felhasználói fiók létrehozásakor",theme,frontend\Magento\luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Elfelejtette a jelszavát? <a href=""%reset_url"">Kattintson ide</a> a visszaállításhoz.",theme,frontend\Magento\luma
+"When you sign in to your account, you will be able to:","Ha bejelentkezel a felhasználói fiókodba, képes leszel:",theme,frontend\Magento\luma
+"Quick Checkout","Gyors fizetés",theme,frontend\Magento\luma
+"Proceed through checkout faster","Gyorsabb vásárlásra",theme,frontend\Magento\luma
+"Order Status","Megrendelés állapota",theme,frontend\Magento\luma
+"Check the status of orders","Rendelések állapotának ellenőrzésére",theme,frontend\Magento\luma
+"Manage Addresses","Címek kezelése",theme,frontend\Magento\luma
+"Store alternative addresses","Alternatív címek tárolása",theme,frontend\Magento\luma
+"For shipping to multiple family members and friends","Szállítás több családtagnak és barátnak",theme,frontend\Magento\luma
+"Order History","Korábbi rendelések",theme,frontend\Magento\luma
+"View past orders","Korábbi rendelések megtekintésére",theme,frontend\Magento\luma
+"Footer","Lábléc",theme,frontend\Magento\luma
+"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>Rólunk</a>",theme,frontend\Magento\luma
+"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Vevőszolgálat</a>",theme,frontend\Magento\luma
+"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend\Magento\luma
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Nyitvatartás:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend\Magento\luma
+"Credit memo for your %store_name order","Jóváírás a %store_name megrendeléshez",theme,frontend\Magento\luma
+"Thank you for your order from %store_name.","Köszönjük a %store_name webáruházban leadott megrendelést.",theme,frontend\Magento\luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","A rendelés állapotát ellenőrizheted, ha <a href=""%account_url"">bejelentkezel a felhasználói fiókodba</a>.",theme,frontend\Magento\luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Ha kérdésed van a rendeléseddel kapcsolatban, <a href=""mailto:%store_email"">%store_email</a> címre írj nekünk.",theme,frontend\Magento\luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Az ön jóváírása #%creditmemo_id a(z) #%order_id számú megrendeléshez",theme,frontend\Magento\luma
+"Billing Info","Számlázási információk",theme,frontend\Magento\luma
+"Shipping Info","Szállítási információk",theme,frontend\Magento\luma
+"Payment Method","Fizetési mód",theme,frontend\Magento\luma
+"Shipping Method","Szállítási mód",theme,frontend\Magento\luma
+"Update to your %store_name credit memo","Frissítés a %store_name jóváíráshoz",theme,frontend\Magento\luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","A(z) #%increment_id számú megrendelés státusza frissült: <strong>%order_status</strong>.",theme,frontend\Magento\luma
+"Invoice for your %store_name order","A(z) %store_name rendelés számlája",theme,frontend\Magento\luma
+"Your Invoice #%invoice_id for Order #%order_id","A(z) #%order_id számú rendelés #%invoice_id azonosítójú számlája",theme,frontend\Magento\luma
+"Update to your %store_name invoice","Az Ön %store_name számla frissítése",theme,frontend\Magento\luma
+"Your %store_name order confirmation","Az Ön %store_name rendelés-visszaigazolása",theme,frontend\Magento\luma
+"%customer_name,","%customer_name,",theme,frontend\Magento\luma
+"Once your package ships we will send you a tracking number.","Ha a csomag szállításra kész, elküldjük a nyomkövetési kódot.",theme,frontend\Magento\luma
+"Your Order <span class=""no-link"">#%increment_id</span>","A z Ön rendelése <span class=""no-link"">#%increment_id</span>",theme,frontend\Magento\luma
+"Placed on <span class=""no-link"">%created_at</span>","Rendelés ideje: <span class=""no-link"">%created_at</span>",theme,frontend\Magento\luma
+"Update to your %store_name order","%store_name megrendeléssel kapcsolatos válzozások",theme,frontend\Magento\luma
+"Your %store_name order has shipped","A %store_name megrendelése szállításra került",theme,frontend\Magento\luma
+"Your shipping confirmation is below. Thank you again for your business.","A szállítási információ megerősítve. Köszönjük rendelését.",theme,frontend\Magento\luma
+"Your Shipment #%shipment_id for Order #%order_id","A #%order_id megrendelés #%shipment_id azonosítójú szállítása",theme,frontend\Magento\luma
+"Update to your %store_name shipment","Változás a %store_name megrendeléssel kapcsolatban",theme,frontend\Magento\luma
+"Account Dashboard","Felhasználói fiók irányítópult",theme,frontend\Magento\luma
+"Address Book","Címjegyzék",theme,frontend\Magento\luma
+"Account Information","Fiókadatok",theme,frontend\Magento\luma
+"About Us","Rólunk",theme,frontend\Magento\luma
+"Customer Service","Ügyfélszolgálat",theme,frontend\Magento\luma
+"My Account","Saját fiók",theme,frontend\Magento\luma
 "Backup options","Biztonsági mentés opciók",lib,web
 "Warning","Figyelmeztetés",lib,web
 "Cancel","Mégse",lib,web
