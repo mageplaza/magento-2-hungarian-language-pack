@@ -276,15 +276,15 @@
 "Command was not found.","A parancs nem található!",module,Magento_Analytics
 "Input data must be string or convertible into string.","A megadott adat nem karakterlánc, vagy nem konvertálható azzá.",module,Magento_Analytics
 "Input data must be non-empty string.","A megadott adatnak nem üres karakterláncnak kell lennie.",module,Magento_Analytics
-"Not valid cipher method.","Not valid cipher method.",module,Magento_Analytics
+"Not valid cipher method.","Nem érvényes titkosító eljárás.",module,Magento_Analytics
 "Encryption key can't be empty.","Titkosító kulcs nem lehet üres.",module,Magento_Analytics
 "Source ""%1"" is not exist","""%1"" forrás nem létezik",module,Magento_Analytics
-"These arguments can't be empty ""%1""","These arguments can't be empty ""%1""",module,Magento_Analytics
+"These arguments can't be empty ""%1""","Ezek az értékek nem lehetnek üresek ""%1""",module,Magento_Analytics
 "Cannot find predefined integration user!","Nem található az előre definiált felhasználóintegráció!",module,Magento_Analytics
 "File is not ready yet.","A fájl még nincs kész.",module,Magento_Analytics
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.",module,Magento_Analytics
 "Failed to synchronize data to the Magento Business Intelligence service. ","Failed to synchronize data to the Magento Business Intelligence service. ",module,Magento_Analytics
-"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Retry Synchronization</a>",module,Magento_Analytics
+"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Újraszinkronizálás</a>",module,Magento_Analytics
 "TestMessage","Tesztüzenet",module,Magento_Analytics
 "Apps and Games","Alkalmazások és játékok",module,Magento_Analytics
 "Athletic/Sporting Goods","Sportszerek",module,Magento_Analytics
@@ -305,10 +305,10 @@ Your reports can be accessed securely on a personalized dashboard outside of the
 ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">,module,Magento_Analytics
 terms and conditions</a>.",module,Magento_Analytics
 "Advanced Reporting Service","Fejlett jelentési szolgáltatás",module,Magento_Analytics
-"Time of day to send data","Time of day to send data",module,Magento_Analytics
+"Time of day to send data","Napon belüli időpont az adatok küldésére",module,Magento_Analytics
 "Industry","Ipar",module,Magento_Analytics
-"In order to personalize your Advanced Reporting experience, please select your industry.","In order to personalize your Advanced Reporting experience, please select your industry.",module,Magento_Analytics
-"<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Get more insights from Magento Business Intelligence</strong>",module,Magento_Analytics
+"In order to personalize your Advanced Reporting experience, please select your industry.","Válassza ki az iparágat a fejlett jelentéskészítő testreszabásához.",module,Magento_Analytics
+"<strong>Get more insights from Magento Business Intelligence</strong>","<strong>További részletek a Magento Business Intelligence-ről</strong>",module,Magento_Analytics
 "Magento Business Intelligence provides you with a simple and clear path to,module,Magento_Analytics
 becoming more data driven.</br> Learn more about <a target=""_blank"",module,Magento_Analytics
 href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence provides you with a simple and clear path to,module,Magento_Analytics
@@ -337,9 +337,9 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Please select an industry.","Válassza ki az iparágat.",module,Magento_Analytics
 "The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Az érték érvénytelen. Adja meg az adatokat karakterláncként vagy úgy hogy karakterlánccá lehessen alakítani, majd próbálkozzon újra.",module,Magento_Analytics
 "The data is invalid. Enter the data as a string and try again.","Az érték érvénytelen. Adja meg az értéket karakterláncként, és próbálkozzon újra.",module,Magento_Analytics
-"The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again.",module,Magento_Analytics
+"The data is invalid. Use a valid cipher method and try again.","Az adat érvénytelen. Használjon érvényes titkosító eljárást és próbálja újra.",module,Magento_Analytics
 "Enter the encryption key and try again.","Adja meg a titkosítási kulcsot, és próbálkozzon újra.",module,Magento_Analytics
-"The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist.",module,Magento_Analytics
+"The ""%1"" source doesn't exist.","A ""%1"" forrás nem létezik.",module,Magento_Analytics
 "Retry Synchronization","Újraszinkronizálás",module,Magento_Analytics
 "Back","Vissza",module,Magento_AsynchronousOperations
 "Done","Kész",module,Magento_AsynchronousOperations
@@ -1695,7 +1695,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Number of Symbols","Szimbólumok száma",module,Magento_Captcha
 "Please specify 8 symbols at the most. Range allowed (e.g. 3-5)","Maximum 8 szimbólumot adjon meg. Tartomány is megadható (pl 3-5)",module,Magento_Captcha
 "Symbols Used in CAPTCHA","CAPTCHA-ban használt szimbólumok",module,Magento_Captcha
-"Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.","Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.",module,Magento_Captcha
+"Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.","Kérjük csak betűket (a-z vagy A-Z) vagy számokat (0-9) használj ebben a mezőben. Szóközök vagy egyéb karakterek nem engedélyezettek.<br />Hasonló kinézetű karakterek (pl. ""i"", ""l"", ""1"") csökkentik a helyes felismerés esélyét.",module,Magento_Captcha
 "Case Sensitive","Kis- és nagybetű érzékeny",module,Magento_Captcha
 "Enable CAPTCHA on Storefront","CAPTCHA engedélyezése a Storefronton",module,Magento_Captcha
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","A CAPTCHA a ""Felhasználó létrehozása"" és az ""Elfelejtettem a jelszavamat"" űrlapokhoz mindig engedélyezve van, ha ki van választva.",module,Magento_Captcha
@@ -1738,7 +1738,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "New Product Attribute","Új termékjellemző",module,Magento_Catalog
 "Advanced Attribute Properties","Haladó jellemző tulajdonságok",module,Magento_Catalog
 "Attribute Code","Jellemző kód",module,Magento_Catalog
-"This is used internally. Make sure you don't use spaces or more than %1 symbols.","This is used internally. Make sure you don't use spaces or more than %1 symbols.",module,Magento_Catalog
+"This is used internally. Make sure you don't use spaces or more than %1 symbols.","Belső használatra. Bizonyosodjon meg, hogy nem használ szóközt vagy több mint %1 szibólumot.",module,Magento_Catalog
 "Default Value","Alapértelmezett érték",module,Magento_Catalog
 "Unique Value","Egyedi érték",module,Magento_Catalog
 "Unique Value (not shared with other products)","Egyedi érték (nincs megosztva más termékekkel)",module,Magento_Catalog
@@ -1898,16 +1898,16 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Please, specify attributes","Kérem adjon meg jellemzőket",module,Magento_Catalog
 "Catalog","Katalógus",module,Magento_Catalog
 "Manage Product Attributes","Termék jellemzők kezelése",module,Magento_Catalog
-"We can't delete the attribute.","We can't delete the attribute.",module,Magento_Catalog
+"We can't delete the attribute.","Nem tudjuk az attribútumot törölni.",module,Magento_Catalog
 "You deleted the product attribute.","Törölte a termék jellemzőjét.",module,Magento_Catalog
-"We can't find an attribute to delete.","We can't find an attribute to delete.",module,Magento_Catalog
+"We can't find an attribute to delete.","Nem találunk törölhető attribútumot.",module,Magento_Catalog
 "This attribute no longer exists.","E jellemző már nem létezik.",module,Magento_Catalog
 "This attribute cannot be edited.","Ezt a jellemzőt nem lehet szerkeszteni.",module,Magento_Catalog
 "Edit Product Attribute","Termék jellemző szerkesztése",module,Magento_Catalog
-"An attribute set named '%1' already exists.","An attribute set named '%1' already exists.",module,Magento_Catalog
+"An attribute set named '%1' already exists.","Egy '%1' nevű attribútumhalmaz már létezik.",module,Magento_Catalog
 "Something went wrong while saving the attribute.","Valami elromlott a jellemző mentése közben.",module,Magento_Catalog
 "Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","A ""%1"" jellemző kód érvénytelen. Kérjük, használjon csak betűket (a-z), számokat (0-9) vagy aláhúzást (_) ebben a mezőben, és az első karakternek betűnek kell lennie.",module,Magento_Catalog
-"We can't update the attribute.","We can't update the attribute.",module,Magento_Catalog
+"We can't update the attribute.","Nem tudjuk frissíteni az attribútumot.",module,Magento_Catalog
 "You saved the product attribute.","Termék jellemző elmentve.",module,Magento_Catalog
 "An attribute with this code already exists.","Már van egy jellemző ezzel a kóddal.",module,Magento_Catalog
 "An attribute with the same code (%1) already exists.","Már létezik ezzel a kóddal (%1) egy jellemző.",module,Magento_Catalog
@@ -1928,7 +1928,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "The image cannot be removed as it has been assigned to the other image role","A kép eltávolítása nem lehetséges, mert valamilyen szerepben használatban van",module,Magento_Catalog
 "New Attribute Set","Új jellemző halmaz",module,Magento_Catalog
 "The attribute set has been removed.","A jellemző halmaz eltávolítva.",module,Magento_Catalog
-"We can't delete this set right now.","We can't delete this set right now.",module,Magento_Catalog
+"We can't delete this set right now.","Ezt a halmazt nem tudjuk törölni.",module,Magento_Catalog
 "New Set","Új készlet",module,Magento_Catalog
 "Manage Product Sets","Termék-készletek kezelése",module,Magento_Catalog
 "Manage Attribute Sets","Jellemző halmaz kezelése",module,Magento_Catalog
@@ -1950,9 +1950,9 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Bad controller interface for showing product","Rossz controller interface a termék megjelenítéséhez",module,Magento_Catalog
 "Product is not loaded","Termék nincs betöltve",module,Magento_Catalog
 "Make sure the To Date is later than or the same as the From Date.","Győződjön meg róla, hogy a befejezés dátuma későbbi, vagy ugyanaz, mint a kezdés dátuma.",module,Magento_Catalog
-"Sorry, but we can't find the new parent category you selected.","Sorry, but we can't find the new parent category you selected.",module,Magento_Catalog
-"Sorry, but we can't find the new category you selected.","Sorry, but we can't find the new category you selected.",module,Magento_Catalog
-"We can't move the category because the parent category name matches the child category name.","We can't move the category because the parent category name matches the child category name.",module,Magento_Catalog
+"Sorry, but we can't find the new parent category you selected.","Sajnos nem találjuk a kijelölt új szülő kategóriát.",module,Magento_Catalog
+"Sorry, but we can't find the new category you selected.","Sajnos nem találjuk a kijelölt új kategóriát.",module,Magento_Catalog
+"We can't move the category because the parent category name matches the child category name.","Nem tudjuk áthelyezni a kategóriát, mert a szülő kategória megegyezik az gyermek kategória nevével.",module,Magento_Catalog
 "Something went wrong while getting the image url.","Hiba a kép url-címének lekérdezésekor.",module,Magento_Catalog
 "Can't delete root category.","Nem lehet törölni gyökér kategóriát.",module,Magento_Catalog
 "The value of attribute ""%1"" must be unique.","A ""%1"" jellemző értékének egyedinek kell lennie.",module,Magento_Catalog
@@ -1993,11 +1993,11 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Bottom/Left","Lent/Balra",module,Magento_Catalog
 "Bottom/Right","Lent/Jobbra",module,Magento_Catalog
 "Center","Középen",module,Magento_Catalog
-"%1 doesn't extends \Magento\Framework\Model\AbstractModel","%1 doesn't extends \Magento\Framework\Model\AbstractModel",module,Magento_Catalog
+"%1 doesn't extends \Magento\Framework\Model\AbstractModel","%1 nem bővíti a ""\Magento\Framework\Model\AbstractModel""-t",module,Magento_Catalog
 "Something went wrong while saving the file(s).","Hiba történt a fájl(ok) mentése során!",module,Magento_Catalog
 "File can not be saved to the destination folder.","A fájl nem menthető a célmappába.",module,Magento_Catalog
 "Unknown EAV indexer type ""%1"".","Ismeretlen EAV indexelő típus ""%1"".",module,Magento_Catalog
-"We can't rebuild the index for an undefined product.","We can't rebuild the index for an undefined product.",module,Magento_Catalog
+"We can't rebuild the index for an undefined product.","Nemt tudjuk újraépíteni az indexet egy nem definiált termékre.",module,Magento_Catalog
 "Bad value was supplied.","Rossz érték lett megadva.",module,Magento_Catalog
 "The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes.Currently there are %1$d of them.Please reduce the number of filterable/sortable attributes in order to use this module","A lapos katalógus modul csak %2$d szűrhető vagy sorba rendezhető jellemzőt tud kezelni. Most %1$d jellemző van beállítva. Kérem csökkentse a beállított jellemzők számát, hogy használható legyen a modul",module,Magento_Catalog
 "Unsupported product type ""%1"".","Nem támogatott termék típus ""%1"".",module,Magento_Catalog
@@ -2007,8 +2007,8 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Category","Kategória",module,Magento_Catalog
 "%1 - %2","%1 - %2",module,Magento_Catalog
 "%1 was not found in algorithms","%1 nem található az algoritmusokban",module,Magento_Catalog
-"%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface","%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface",module,Magento_Catalog
-"%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter",module,Magento_Catalog
+"%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface","%1 nem bővíti a ""\Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface""-t",module,Magento_Catalog
+"%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","%1 nem bővíti a ""\Magento\Catalog\Model\Layer\Filter\AbstractFilter""-t",module,Magento_Catalog
 "The filter must be an object. Please set the correct filter.","A szűrőnek objektumnak kell lennie. Állítsa be a megfelelő szűrőt!",module,Magento_Catalog
 "Clear Price","Ár törlése",module,Magento_Catalog
 "%1 and above","%1 és felette",module,Magento_Catalog
@@ -2032,33 +2032,33 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Enabled","Engedélyezve",module,Magento_Catalog
 "Disabled","Tiltott",module,Magento_Catalog
 "Attribute Set already exists.","A jellemző halmaz már létezik.",module,Magento_Catalog
-"We couldn't copy file %1. Please delete media with non-existing images and try again.","We couldn't copy file %1. Please delete media with non-existing images and try again.",module,Magento_Catalog
+"We couldn't copy file %1. Please delete media with non-existing images and try again.","Nem tudjuk a %1 filet másolni. Kérjük törölje a mediát a nem létező képekkel és próbálja újra.",module,Magento_Catalog
 "The image content is not valid.","A kép tartalma érvénytelen.",module,Magento_Catalog
 "Cannot save product.","Nem lehet menteni a terméket.",module,Magento_Catalog
 "Failed to save new media gallery entry.","Nem sikerült menteni az új média galéria bejegyzést.",module,Magento_Catalog
 "There is no image with provided ID.","A megadott azonosítóval nincs kép.",module,Magento_Catalog
-"Such product doesn't exist","Such product doesn't exist",module,Magento_Catalog
-"Such image doesn't exist","Such image doesn't exist",module,Magento_Catalog
+"Such product doesn't exist","Ilyen termék nem létezik",module,Magento_Catalog
+"Such image doesn't exist","Ilyen kép nem létezik",module,Magento_Catalog
 "The image does not exist.","A kép nem létezik.",module,Magento_Catalog
 "Please correct the image file type.","Kérem javítsa a kép fájltípusát.",module,Magento_Catalog
-"We couldn't move this file: %1.","We couldn't move this file: %1.",module,Magento_Catalog
-"Can't get information about the picture: %1","Can't get information about the picture: %1",module,Magento_Catalog
-"The image could not be resized: ","The image could not be resized: ",module,Magento_Catalog
-"Some images could not be resized. See log file for details.","Some images could not be resized. See log file for details.",module,Magento_Catalog
+"We couldn't move this file: %1.","Nem tudjuk mozgatni a %1 filet.",module,Magento_Catalog
+"Can't get information about the picture: %1","Nem találunk információt a %1 képről",module,Magento_Catalog
+"The image could not be resized: ","A képet nem lehet átméretezni: ",module,Magento_Catalog
+"Some images could not be resized. See log file for details.","Némelyik képet nem lehet átméretezni. Lásd a log-filet a részletekért.",module,Magento_Catalog
 "The option type to get group instance is incorrect.","Hibás beállítási típus a csoporthoz.",module,Magento_Catalog
 "Select type options required values rows.","Válassza ki a kötelező mezők típusát!",module,Magento_Catalog
 "ProductSku should be specified","Termék cikkszámát meg kell adni",module,Magento_Catalog
 "Could not remove custom option","Nem sikerült eltávolítani az egyéni beállítást",module,Magento_Catalog
 "Please specify date required option(s).","Kérjük, határozza meg a dátum kötelező opció(i)t!",module,Magento_Catalog
 "Please specify time required option(s).","Kérjük, határozza meg az idő kötelező opció(i)t!",module,Magento_Catalog
-"Please specify product's required option(s).","Please specify product's required option(s).",module,Magento_Catalog
+"Please specify product's required option(s).","Adja meg a termék kötelező opció(i)t.",module,Magento_Catalog
 "The option instance type in options group is incorrect.","Hibás beállítási példány típus a csoportban.",module,Magento_Catalog
 "The product instance type in options group is incorrect.","Hibás termék példány típus a csoportban.",module,Magento_Catalog
 "The configuration item option instance in options group is incorrect.","A kiválasztott konfigurációs beállítás érvénytelen.",module,Magento_Catalog
 "The configuration item instance in options group is incorrect.","A kiválasztott konfigurációs beállítás érvénytelen.",module,Magento_Catalog
 "The BuyRequest instance in options group is incorrect.","Rossz BuyRequest példány a beállítás csoportban.",module,Magento_Catalog
-"We can't add the product to the cart because of an option validation issue.","We can't add the product to the cart because of an option validation issue.",module,Magento_Catalog
-"%1 doesn't extends \Magento\Catalog\Model\Product\Option\Type\DefaultType","%1 doesn't extends \Magento\Catalog\Model\Product\Option\Type\DefaultType",module,Magento_Catalog
+"We can't add the product to the cart because of an option validation issue.","Nem tudjuk a teméket a kosárba helyezni opció validálási probléma miatt.",module,Magento_Catalog
+"%1 doesn't extends \Magento\Catalog\Model\Product\Option\Type\DefaultType","%1 nem bővíti a ""\Magento\Catalog\Model\Product\Option\Type\DefaultType""-t",module,Magento_Catalog
 "The file options format is not valid.","A fájl formátuma érvénytelen.",module,Magento_Catalog
 "px.","px.",module,Magento_Catalog
 "The file '%1' for '%2' has an invalid extension.","A(z) ""%1""-""%2"" file kiterjesztése érvénytelen.",module,Magento_Catalog
@@ -2066,7 +2066,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.","A feltöltött file (""%1"") nagyobb, mint az engedélyezett %2 megabájt.",module,Magento_Catalog
 "The file '%1' is empty. Please choose another one","A '%1' fájl üres. Válasszon másikat",module,Magento_Catalog
 "The file '%1' is invalid. Please choose another one","A '%1' fájl érvénytelen. Válasszon másikat",module,Magento_Catalog
-"File '%1' is not an image.","File '%1' is not an image.",module,Magento_Catalog
+"File '%1' is not an image.","A '%1' file nem kép.",module,Magento_Catalog
 "Validation failed. Required options were not filled or the file was not uploaded.","Érvényesítés sikertelen. A szükséges opciók nem kerültek kiválasztásra vagy a fájl feltöltése nem sikerült.",module,Magento_Catalog
 "The file you uploaded is larger than %1 Megabytes allowed by server","A feltöltött fájl nagyobb, mint a szerver által engedélyezett %1 megabájt",module,Magento_Catalog
 "Option required.","Beállítás szükséges.",module,Magento_Catalog
@@ -2092,18 +2092,18 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Invalid attribute Website ID = %websiteId. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Érvénytelen Weboldal-azonosító jellemző = %websiteId. Sor azonosítója: CSZ = %SKU, Weboldal-azonosító: %websiteId, Vevőcsoport: %customerGroup, mennyiség: %qty.",module,Magento_Catalog
 "We found a duplicate website, tier price, customer group and quantity: Customer Group = %customerGroup, Website ID = %websiteId, Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Ismétlődő weboldal, lépcsős ár, vevőcsoport, és mennyiség: Vevőcsoport = %customerGroup, Weboldal-azonosító = %websiteId, mennyiség = %qty. Sor azonosító: CSZ = %SKU, Weboldal-azonosító: %websiteId, Vevőcsoport: %customerGroup, mennyiség: %qty.",module,Magento_Catalog
 "No such entity with Customer Group = %customerGroup. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Nincs olyan entitás ahol a Vevőcsoport = %customerGroup. Sor azonosítója: CSZ = %SKU, Weboldal-azonosító: %websiteId, Vevőcsoport: %customerGroup, mennyiség: %qty.",module,Magento_Catalog
-"This product doesn't have tier price","This product doesn't have tier price",module,Magento_Catalog
-"Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3",module,Magento_Catalog
+"This product doesn't have tier price","Ennek a terméknek nincs mennyiségi kedvezményes ára",module,Magento_Catalog
+"Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","A temréknek nincs csoport ára az alábbi adatokkal: customerGroupId = '%1', website = %2, qty = %3",module,Magento_Catalog
 "Invalid data provided for tier_price","Érvénytelen adatok megadva a tier_price-hez",module,Magento_Catalog
 "Could not save group price","A csoport ár mentése sikertelen",module,Magento_Catalog
 "Please provide valid data","Kérem érvényes adatot adjon meg",module,Magento_Catalog
 "Values of following attributes are invalid: %1","A következő jellemzők értékei érvénytelenek: %1",module,Magento_Catalog
-"We can't create writeable directory ""%1"".","We can't create writeable directory ""%1"".",module,Magento_Catalog
+"We can't create writeable directory ""%1"".","Nem tudjuk a ""%1"" írható könyvtárat létrehozni.",module,Magento_Catalog
 "The file upload failed.","A fájl feltöltése nem sikerült.",module,Magento_Catalog
 "The product has required options.","A terméknek kötelező beállításai vannak.",module,Magento_Catalog
 "Something went wrong while processing the request.","Hiba a kérelem feldolgozása közben.",module,Magento_Catalog
-"%1 doesn't extends \Magento\Catalog\Model\Product\Type\AbstractType","%1 doesn't extends \Magento\Catalog\Model\Product\Type\AbstractType",module,Magento_Catalog
-"%1 doesn't extends \Magento\Catalog\Model\Product\Type\Price","%1 doesn't extends \Magento\Catalog\Model\Product\Type\Price",module,Magento_Catalog
+"%1 doesn't extends \Magento\Catalog\Model\Product\Type\AbstractType","%1 nem bővíti a ""\Magento\Catalog\Model\Product\Type\AbstractType""-t",module,Magento_Catalog
+"%1 doesn't extends \Magento\Catalog\Model\Product\Type\Price","%1 nem bővíti a ""\Magento\Catalog\Model\Product\Type\Price""-t",module,Magento_Catalog
 "Not Visible Individually","Önmagában nem látható",module,Magento_Catalog
 "Search","Keresés",module,Magento_Catalog
 "Catalog, Search","Katalógus, keresés",module,Magento_Catalog
@@ -2116,7 +2116,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Provided link type ""%1"" does not exist","A hivatkozás típus nem létezik: ""%1""",module,Magento_Catalog
 "Invalid data provided for linked products","Érvénytelen adatok vannak a kapcsolódó termékekhez megadva",module,Magento_Catalog
 "Product with SKU '%1' is not linked to product with SKU '%2'","A ""%1"" cikkszámú termék nincs összekötve a ""%2"" cikkszámú termékkel",module,Magento_Catalog
-"Product %1 doesn't have linked %2 as %3","Product %1 doesn't have linked %2 as %3",module,Magento_Catalog
+"Product %1 doesn't have linked %2 as %3","A %1 terméknek nincs kapcsolt %2 mint %3",module,Magento_Catalog
 "Requested product doesn't exist","Ez a termék nem létezik",module,Magento_Catalog
 "Product with SKU ""%1"" does not exist","A ""%1"" cikkszámú termék nem létezik",module,Magento_Catalog
 "Invalid product data: %1","Érvénytelen termék adat: %1",module,Magento_Catalog
@@ -2129,18 +2129,18 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Could not assign product ""%1"" to websites ""%2""","A(z) ""%1"" termék nem rendelhető a(z) ""%2"" honlaphoz",module,Magento_Catalog
 "Could not save product ""%1"" with websites %2","Nem lehet menteni a(z) ""%1"" terméket a(z) %2  weboldalakhoz",module,Magento_Catalog
 "We cannot determine the field name.","Nem tudjuk meghatározni a mező nevét.",module,Magento_Catalog
-"Attribute '%1' is locked. %2","Attribute '%1' is locked. %2",module,Magento_Catalog
+"Attribute '%1' is locked. %2","Attribútum '%1' zárolva. %2",module,Magento_Catalog
 "Do not change the scope. %1","Ne változtassa meg a hatókört. %1",module,Magento_Catalog
 "Processor %1 doesn't implement BaseSelectProcessorInterface","%1 Processzor nem hajtotta végre a BaseSelectProcessorInterface -t",module,Magento_Catalog
 "A product type is not defined for the indexer.","A terméktípus nincs definiálva az indexelőhöz.",module,Magento_Catalog
-"%1 doesn't extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice","%1 doesn't extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice",module,Magento_Catalog
+"%1 doesn't extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice","%1 nem bővíti a ""\Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice""-t",module,Magento_Catalog
 "Product with SKU %1 is not linked to product with SKU %2","A %1 cikkszámú termék nincs összekötve a %2 cikkszámú termékkel",module,Magento_Catalog
 "Multiple Select","Többszörös kijelölés",module,Magento_Catalog
 "Dropdown","Legördülő lista",module,Magento_Catalog
-"%1 doesn't extend \Magento\Framework\Filter\Template","%1 doesn't extend \Magento\Framework\Filter\Template",module,Magento_Catalog
+"%1 doesn't extend \Magento\Framework\Filter\Template","%1 nem bővíti a ""\Magento\Framework\Filter\Template""-t",module,Magento_Catalog
 "As low as","Olcsóbb mint",module,Magento_Catalog
 "test","teszt",module,Magento_Catalog
-"Some text is here.","Some text is here.",module,Magento_Catalog
+"Some text is here.","Szöveg helye.",module,Magento_Catalog
 "Some exception","Néhány hiba",module,Magento_Catalog
 "Could not get extension attributes","Nem sikerült beolvasni a bővítmény attribútumait",module,Magento_Catalog
 "message","üzenet",module,Magento_Catalog
@@ -2156,10 +2156,10 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "To","Eddig",module,Magento_Catalog
 "Done","Kész",module,Magento_Catalog
 "Product Alerts","Termék értesítések",module,Magento_Catalog
-"Alert stock","Alert stock",module,Magento_Catalog
-"Alert Stock","Alert Stock",module,Magento_Catalog
-"Alert price","Alert price",module,Magento_Catalog
-"Alert Price","Alert Price",module,Magento_Catalog
+"Alert stock","Riasztási készlet szint",module,Magento_Catalog
+"Alert Stock","Riasztási készlet szint",module,Magento_Catalog
+"Alert price","Riasztási árszint",module,Magento_Catalog
+"Alert Price","Riasztási árszint",module,Magento_Catalog
 "Add Selected","Kijelölt(ek) hozzáadása",module,Magento_Catalog
 "Select Attribute","Válasszon jellemzőt",module,Magento_Catalog
 "Create New Attribute","Új jellemző létrehozása",module,Magento_Catalog
@@ -2176,7 +2176,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Price Type","Ártípus",module,Magento_Catalog
 "Max Characters","Max karakterek",module,Magento_Catalog
 "Compatible File Extensions","Kompatibilis fájlkiterjesztések",module,Magento_Catalog
-"Enter separated extensions, like: png, jpg, gif.","Enter separated extensions, like: png, jpg, gif.",module,Magento_Catalog
+"Enter separated extensions, like: png, jpg, gif.","Adja meg a file kiterjesztéseket elválasztva például: png, jpg, gif.",module,Magento_Catalog
 "Maximum Image Size","Maximális képméret",module,Magento_Catalog
 "Please leave blank if it is not an image.","Kérjük, hagyja üresen, ha nem egy kép.",module,Magento_Catalog
 "%1","%1",module,Magento_Catalog
@@ -2529,55 +2529,56 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Are you sure you want to delete this category?","Biztos abban, hogy törölni szeretné a kategóriát?",module,Magento_Catalog
 "ID: %1","ID: %1",module,Magento_Catalog
 "Set root category for this store in the <a href=""%1"">configuration</a>.","Set root category for this store in the <a href=""%1"">configuration</a>.",module,Magento_Catalog
-"Manage Options (values of your attribute)","Manage Options (values of your attribute)",module,Magento_Catalog
+"Manage Options (values of your attribute)","Opció menedzsment (az opciók értékei)",module,Magento_Catalog
 "An attribute group named ""/name/"" already exists"".","""/name/"" nevű jellemző csoport már létezik"".",module,Magento_Catalog
-"Close panel","Close panel",module,Magento_Catalog
-"Allow Multiple Boxes for Shipping.","Allow Multiple Boxes for Shipping.",module,Magento_Catalog
+"Close panel","Panel bezárása",module,Magento_Catalog
+"Allow Multiple Boxes for Shipping.","Több csomagos szállítás engedélyezése.",module,Magento_Catalog
 "Ok","Ok",module,Magento_Catalog
 "Watermark Default Size","Vízjel alapértelmezett mérete",module,Magento_Catalog
-"Watermark Opacity, Percent","Watermark Opacity, Percent",module,Magento_Catalog
+"Watermark Opacity, Percent","Vízjel átláthatóság %",module,Magento_Catalog
 "Watermark","Vízjel",module,Magento_Catalog
 "Watermark Position","Vízjel pozíciója",module,Magento_Catalog
 "none","nincs",module,Magento_Catalog
-"File validation failed.","File validation failed.",module,Magento_Catalog
-"text","text",module,Magento_Catalog
+"File validation failed.","File ellenőrzés hiba.",module,Magento_Catalog
+"text","szöveg",module,Magento_Catalog
 "Tier Price","Árlépcső",module,Magento_Catalog
 "If your Magento site has multiple views, you can set the scope to apply to a specific view.","Ha a Magento weboldalnak több nézete van, beállítható melyik bolt nézetre vonatkozzon a hatókör.",module,Magento_Catalog
 "Sort Products By","Termékek rendezése",module,Magento_Catalog
 "Default Product Sorting","Alapértelmezett termék rendezés",module,Magento_Catalog
 "Use Parent Category Settings","Szülő kategória beállításainak használata",module,Magento_Catalog
-"Page not found","Page not found",module,Magento_Catalog
-"Full file path is expected.","Full file path is expected.",module,Magento_Catalog
+"Page not found","Az oldal nem található",module,Magento_Catalog
+"Full file path is expected.","Teljes útvonal szükséges.",module,Magento_Catalog
 "from","ettől",module,Magento_Catalog
 "to","eddig",module,Magento_Catalog
-"The attribute couldn't be saved due to an error. Verify your information and try again. If the error persists, please try again later.","The attribute couldn't be saved due to an error. Verify your information and try again. If the error persists, please try again later.",module,Magento_Catalog
-"The attribute couldn't be validated due to an error. Verify your information and try again. If the error persists, please try again later.","The attribute couldn't be validated due to an error. Verify your information and try again. If the error persists, please try again later.",module,Magento_Catalog
-"Tier prices data should be array, but actually other type is received","Tier prices data should be array, but actually other type is received",module,Magento_Catalog
-"Price indexer ""%1"" must implement %2 or %3","Price indexer ""%1"" must implement %2 or %3",module,Magento_Catalog
-"You added product %1 to the <a href=""%2"">comparison list</a>.","You added product %1 to the <a href=""%2"">comparison list</a>.",module,Magento_Catalog
-"Maximum %1 characters","Maximum %1 characters",module,Magento_Catalog
+"The attribute couldn't be saved due to an error. Verify your information and try again. If the error persists, please try again later.","Az attribútum nem menthető hiba miatt. Ellenőrizze az adatokat és próbálja újra. Ha a hiba továbbra is fennáll, próbálkozzon később.",module,Magento_Catalog
+"The attribute couldn't be validated due to an error. Verify your information and try again. If the error persists, please try again later.","Az attribútumot nem sikerült érvényesíteni hiba miatt. Ellenőrizze az adatokat és próbálja újra. Ha a hiba továbbra is fennáll, próbálkozzon később.",module,Magento_Catalog
+"Tier prices data should be array, but actually other type is received","A mennyiségi kedevezményes árat tömbben kell megadni, de más típusú adatot kap",module,Magento_Catalog
+"Price indexer ""%1"" must implement %2 or %3","Az ""%1"" ár indexelőnek meg kell adni %2 vagy %3-at",module,Magento_Catalog
+"You added product %1 to the <a href=""%2"">comparison list</a>.","A %1 terméket hozzáadta a <a href=""%2"">comparison list</a>-hoz.",module,Magento_Catalog
+"Maximum %1 characters","Maximum %1 karakter",module,Magento_Catalog
 "remaining","fennmaradó",module,Magento_Catalog
 "too many","túl sok",module,Magento_Catalog
-"Sending attribute values as package.","Sending attribute values as package.",module,Magento_Catalog
+"Sending attribute values as package.","A attribútum értékek küldése csomagként.",module,Magento_Catalog
 "This value does not follow the specified format (for example, 200X300).","Ez az érték nem felel meg a megadott formátumnak (például 200X300).",module,Magento_Catalog
-"Applies to category pages","Applies to category pages",module,Magento_Catalog
-"Remember Category Pagination","Remember Category Pagination",module,Magento_Catalog
-"Changing may affect SEO and cache storage consumption.","Changing may affect SEO and cache storage consumption.",module,Magento_Catalog
-"Images Upload Configuration","Images Upload Configuration",module,Magento_Catalog
-"Quality","Quality",module,Magento_Catalog
-"Jpeg quality for resized images 1-100%.","Jpeg quality for resized images 1-100%.",module,Magento_Catalog
-"Cost","Cost",module,Magento_Catalog
-"The ""%1"" attribute is required. Enter and try again.","The ""%1"" attribute is required. Enter and try again.",module,Magento_Catalog
-"Attributes were missing and must be specified.","Attributes were missing and must be specified.",module,Magento_Catalog
-"The value of Admin must be unique. (%1)","The value of Admin must be unique. (%1)",module,Magento_Catalog
-"The product was unable to be saved. Please try again.","The product was unable to be saved. Please try again.",module,Magento_Catalog
-"The value of the ""%1"" attribute isn't unique. Set a unique value and try again.","The value of the ""%1"" attribute isn't unique. Set a unique value and try again.",module,Magento_Catalog
-"The category doesn't contain the specified product.","The category doesn't contain the specified product.",module,Magento_Catalog
-"The %1 value wasn't found in the algorithms.","The %1 value wasn't found in the algorithms.",module,Magento_Catalog
-"The filters are invalid. Set them in an array and try again.","The filters are invalid. Set them in an array and try again.",module,Magento_Catalog
-"The product wasn't registered.","The product wasn't registered.",module,Magento_Catalog
-"The store wasn't registered. Verify the store and try again.","The store wasn't registered. Verify the store and try again.",module,Magento_Catalog
-"The ""%1"" attribute value is empty. Set the attribute and try again.","The ""%1"" attribute value is empty. Set the attribute and try again.",module,Magento_Catalog
+"Applies to category pages","Alkalmazva a kategória oldalakra",module,Magento_Catalog
+"Remember Category Pagination","Emlékezzen a kategória oldaltördelésre",module,Magento_Catalog
+"Changing may affect SEO and cache storage consumption.","A változása befolyásolhatja a SEO és a gyorsítótár használatát.",module,Magento_Catalog
+"Images Upload Configuration","Képfeltöltési configuráció",module,Magento_Catalog
+"Quality","Minőség",module,Magento_Catalog
+"Jpeg quality for resized images 1-100%.","Jpeg minőség átméretezett képeknél 1-100%.",module,Magento_Catalog
+"Cost","Költség",module,Magento_Catalog
+"The ""%1"" attribute is required. Enter and try again.","A ""%1"" attribútum szükséges. Írja be és próbálja újra.",module,Magento_Catalog
+"Attributes were missing and must be specified.","Az attribútumok hiányoznak, és meg kell adni őket.",module,Magento_Catalog
+"The value of Admin must be unique. (%1)","Az Admin értékének egyedinek kell lennie. (%1)",module,Magento_Catalog
+"The product was unable to be saved. Please try again.","Source String,module,Magento_Catalog
+A termék nem menthető el. Próbáld újra.",module,Magento_Catalog
+"The value of the ""%1"" attribute isn't unique. Set a unique value and try again.","A ""%1"" attribútum értéke nem egyedi. Állítson be egyedi értéket és próbálja újra.",module,Magento_Catalog
+"The category doesn't contain the specified product.","A kategória nem tartalmazza a megadott terméket.",module,Magento_Catalog
+"The %1 value wasn't found in the algorithms.","A %1 érték nem található az algoritmusban.",module,Magento_Catalog
+"The filters are invalid. Set them in an array and try again.","A szűrők érvénytelenek. Állítsa be őket egy tömbben és próbálja újra.",module,Magento_Catalog
+"The product wasn't registered.","A termék nem lett regisztrálva.",module,Magento_Catalog
+"The store wasn't registered. Verify the store and try again.","Nem regisztrált bolt. Ellenőrizze a boltot, és próbálja újra.",module,Magento_Catalog
+"The ""%1"" attribute value is empty. Set the attribute and try again.","A ""%1"" attribútum értéke üres. Állítsa be az attribútumot és próbálja újra.",module,Magento_Catalog
 "The attribute set couldn't be created because it's based on a non-product attribute set.","The attribute set couldn't be created because it's based on a non-product attribute set.",module,Magento_Catalog
 "The attribute set couldn't be created because it's based on a non-existing attribute set.","The attribute set couldn't be created because it's based on a non-existing attribute set.",module,Magento_Catalog
 "The image content is invalid. Verify the content and try again.","The image content is invalid. Verify the content and try again.",module,Magento_Catalog
@@ -2585,15 +2586,15 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "The new media gallery entry failed to save.","The new media gallery entry failed to save.",module,Magento_Catalog
 "No image with the provided ID was found. Verify the ID and try again.","No image with the provided ID was found. Verify the ID and try again.",module,Magento_Catalog
 "The product doesn't exist. Verify and try again.","The product doesn't exist. Verify and try again.",module,Magento_Catalog
-"The image doesn't exist. Verify and try again.","The image doesn't exist. Verify and try again.",module,Magento_Catalog
-"The image doesn't exist.","The image doesn't exist.",module,Magento_Catalog
-"The image type for the file is invalid. Enter the correct image type and try again.","The image type for the file is invalid. Enter the correct image type and try again.",module,Magento_Catalog
-"The ""%1"" file couldn't be moved.","The ""%1"" file couldn't be moved.",module,Magento_Catalog
-"The ProductSku is empty. Set the ProductSku and try again.","The ProductSku is empty. Set the ProductSku and try again.",module,Magento_Catalog
-"The custom option couldn't be removed.","The custom option couldn't be removed.",module,Magento_Catalog
-"The product's required option(s) weren't entered. Make sure the options are entered and try again.","The product's required option(s) weren't entered. Make sure the options are entered and try again.",module,Magento_Catalog
-"The file options format is invalid. Use a correct format and try again.","The file options format is invalid. Use a correct format and try again.",module,Magento_Catalog
-"The file ""%1"" is empty. Select another file and try again.","The file ""%1"" is empty. Select another file and try again.",module,Magento_Catalog
+"The image doesn't exist. Verify and try again.","A kép nem létezik. Ellenőrizze és próbálja újra.",module,Magento_Catalog
+"The image doesn't exist.","A kép nem létezik.",module,Magento_Catalog
+"The image type for the file is invalid. Enter the correct image type and try again.","A kép fájl típusa érvénytelen. Adja meg a fájl helyes típusát és próbálja újra.",module,Magento_Catalog
+"The ""%1"" file couldn't be moved.","A ""%1"" file nem mozgatható.",module,Magento_Catalog
+"The ProductSku is empty. Set the ProductSku and try again.","A cikkszám üres. Állítsa be a cikkszámot és próbálja újra.",module,Magento_Catalog
+"The custom option couldn't be removed.","Az egyedi opció nem távolítható el.",module,Magento_Catalog
+"The product's required option(s) weren't entered. Make sure the options are entered and try again.","A termék kívánt opciója(i) nincsenek megadva. Győződjön meg arról, hogy az opciók be vannak írva és próbálkozzon újra.",module,Magento_Catalog
+"The file options format is invalid. Use a correct format and try again.","A fájlbeállítások formátuma érvénytelen. Használjon helyes formátumot és próbálja újra.",module,Magento_Catalog
+"The file ""%1"" is empty. Select another file and try again.","A ""%1"" fájl üres. Válasszon ki egy másik fájlt és próbálja újra.",module,Magento_Catalog
 "The validation failed. Make sure the required options are entered and the file is uploaded, then try again.","The validation failed. Make sure the required options are entered and the file is uploaded, then try again.",module,Magento_Catalog
 "The file was too big and couldn't be uploaded. Use a file smaller than %1 MBs and try to upload again.","The file was too big and couldn't be uploaded. Use a file smaller than %1 MBs and try to upload again.",module,Magento_Catalog
 "The required option wasn't entered. Enter the option and try again.","The required option wasn't entered. Enter the option and try again.",module,Magento_Catalog
@@ -2714,47 +2715,47 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "Edit","Szerkesztés",module,Magento_CatalogEvent
 "Edit Event...","Edit Event...",module,Magento_CatalogEvent
 "Add Event...","Add Event...",module,Magento_CatalogEvent
-"Concrete type for %1 not implemented","Concrete type for %1 not implemented",module,Magento_CatalogGraphQl
-"Missing key %1 in product data","Missing key %1 in product data",module,Magento_CatalogGraphQl
-"""model"" value should be specified","""model"" value should be specified",module,Magento_CatalogGraphQl
-"""path"" value should be specified","""path"" value should be specified",module,Magento_CatalogGraphQl
-"currentPage value %1 specified is greater than the number of pages available.","currentPage value %1 specified is greater than the number of pages available.",module,Magento_CatalogGraphQl
-"""id for category should be specified","""id for category should be specified",module,Magento_CatalogGraphQl
-"No child sku found for product link.","No child sku found for product link.",module,Magento_CatalogGraphQl
-"'search' or 'filter' input argument is required.","'search' or 'filter' input argument is required.",module,Magento_CatalogGraphQl
-"SimpleProduct type not defined in schema.","SimpleProduct type not defined in schema.",module,Magento_CatalogGraphQl
-"'category_id' only supports 'eq' condition type.","'category_id' only supports 'eq' condition type.",module,Magento_CatalogGraphQl
-"Cannot resolve layered filter type","Cannot resolve layered filter type",module,Magento_CatalogGraphQl
-"Cannot resolve type","Cannot resolve type",module,Magento_CatalogGraphQl
-"Category doesn't exist","Category doesn't exist",module,Magento_CatalogGraphQl
-"""image_type"" value should be specified","""image_type"" value should be specified",module,Magento_CatalogGraphQl
-"currentPage value %1 specified is greater than the %2 page(s) available.","currentPage value %1 specified is greater than the %2 page(s) available.",module,Magento_CatalogGraphQl
-"Entity type model '%1' is not found","Entity type model '%1' is not found",module,Magento_CatalogImportExport
+"Concrete type for %1 not implemented","Konkrét tíipus a %1-re nincs megadva",module,Magento_CatalogGraphQl
+"Missing key %1 in product data","Hiányzó kulcs %1 a termék adatokban",module,Magento_CatalogGraphQl
+"""model"" value should be specified","""model"" értékét meg kell adni",module,Magento_CatalogGraphQl
+"""path"" value should be specified","Az útvonalat meg kell adni",module,Magento_CatalogGraphQl
+"currentPage value %1 specified is greater than the number of pages available.","az aktuálisOldal érték %1 anagyobb, mint a rendelkezésre álló oldalak száma.",module,Magento_CatalogGraphQl
+"""id for category should be specified","A kategória id értékét meg kell adni",module,Magento_CatalogGraphQl
+"No child sku found for product link.","Nem található cikkszám a termékhez.",module,Magento_CatalogGraphQl
+"'search' or 'filter' input argument is required.","'keresés' vagy ""szűrő"" érték szükséges.",module,Magento_CatalogGraphQl
+"SimpleProduct type not defined in schema.","A SimpleProduct típus nincs megadva a sémában.",module,Magento_CatalogGraphQl
+"'category_id' only supports 'eq' condition type.","'category_id' csak az 'eq' feltételt támogatja.",module,Magento_CatalogGraphQl
+"Cannot resolve layered filter type","Nem lehet meghatározni az összetett szűrő típusát",module,Magento_CatalogGraphQl
+"Cannot resolve type","Nem lehet meghatározni a típust",module,Magento_CatalogGraphQl
+"Category doesn't exist","A kategória nem létezik",module,Magento_CatalogGraphQl
+"""image_type"" value should be specified","""image_type"" értékét meg kell adni",module,Magento_CatalogGraphQl
+"currentPage value %1 specified is greater than the %2 page(s) available.","aktuálisOldal megadott értéke %1 nagyobb, mint az elérhető oldalszám %2.",module,Magento_CatalogGraphQl
+"Entity type model '%1' is not found","A ""%1"" entitás típus nem található",module,Magento_CatalogImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Entitás típus modellnek a \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType egy példányának kell lennie",module,Magento_CatalogImportExport
 "There are no product types available for export.","Nincsenek exportálható terméktípusok.",module,Magento_CatalogImportExport
 "'Entity type model must be an instance of ' .","Az entitás típus modell példánya kell, hogy legyen.",module,Magento_CatalogImportExport
-"Wrong attribute set code ""%1"", please correct it and try again.","Wrong attribute set code ""%1"", please correct it and try again.",module,Magento_CatalogImportExport
+"Wrong attribute set code ""%1"", please correct it and try again.","A ""%1"" hibás attribútum csoportkód, javítsa ki és próbálja újra.",module,Magento_CatalogImportExport
 "Category ""%1"" has not been created.","Kategória ""%1"" nem lett létrehozva.",module,Magento_CatalogImportExport
-"File directory '%1' is not readable.","File directory '%1' is not readable.",module,Magento_CatalogImportExport
-"File directory '%1' is not writable.","File directory '%1' is not writable.",module,Magento_CatalogImportExport
-"Value for 'price' sub attribute in 'store' attribute contains incorrect value","Value for 'price' sub attribute in 'store' attribute contains incorrect value",module,Magento_CatalogImportExport
-"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: 'dropdown', 'checkbox'","Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: 'dropdown', 'checkbox'",module,Magento_CatalogImportExport
+"File directory '%1' is not readable.","A %1 könyvtár nem olvasható.",module,Magento_CatalogImportExport
+"File directory '%1' is not writable.","A %1 könyvtár nem írható.",module,Magento_CatalogImportExport
+"Value for 'price' sub attribute in 'store' attribute contains incorrect value","Az 'ár' al attribútum a 'store' attribútumban helytelen értéket tartalmaz",module,Magento_CatalogImportExport
+"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: 'dropdown', 'checkbox'","A 'típus' al attribútum értéke a 'custom_options' attribútumban helytelen értéket tartalmaz, az elfogadható értékek: 'dropdown', 'checkbox'",module,Magento_CatalogImportExport
 "Please enter a value for title.","Kérem adja meg a címet.",module,Magento_CatalogImportExport
-"Value for 'price' sub attribute in 'custom_options' attribute contains incorrect value","Value for 'price' sub attribute in 'custom_options' attribute contains incorrect value",module,Magento_CatalogImportExport
-"Value for 'maximum characters' sub attribute in 'custom_options' attribute contains incorrect value","Value for 'maximum characters' sub attribute in 'custom_options' attribute contains incorrect value",module,Magento_CatalogImportExport
-"Value for 'sort order' sub attribute in 'custom_options' attribute contains incorrect value","Value for 'sort order' sub attribute in 'custom_options' attribute contains incorrect value",module,Magento_CatalogImportExport
-"Value for 'value price' sub attribute in 'custom_options' attribute contains incorrect value","Value for 'value price' sub attribute in 'custom_options' attribute contains incorrect value",module,Magento_CatalogImportExport
+"Value for 'price' sub attribute in 'custom_options' attribute contains incorrect value","A 'custom_options' attribútumban az 'ár' al attribútum értéke helytelen értéket tartalmaz",module,Magento_CatalogImportExport
+"Value for 'maximum characters' sub attribute in 'custom_options' attribute contains incorrect value","A karakterek al attribútuma az 'custom_options' attribútumban helytelen értéket tartalmaz",module,Magento_CatalogImportExport
+"Value for 'sort order' sub attribute in 'custom_options' attribute contains incorrect value","Az 'egyedi_opció' attribútum 'rendezési sorrend' al attribútuma nem megfelelő értéket tartalmaz",module,Magento_CatalogImportExport
+"Value for 'value price' sub attribute in 'custom_options' attribute contains incorrect value","A 'custom_options' attribútumban az ""érték ár"" al attribútum helytelen értéket tartalmaz",module,Magento_CatalogImportExport
 "This name is already being used for custom option. Please enter a different name.","Ezt a nevet már használja egy egyéni lehetőség. Kérem válasszon másik nevet.",module,Magento_CatalogImportExport
 "Custom options have different types.","Az egyéni lehetőségeknek eltérő típusai vannak.",module,Magento_CatalogImportExport
 "Every option entity must have a parent product entity.","Minden lehetőség entitásnak kell hogy legyen szülő termék entitása.",module,Magento_CatalogImportExport
 "Please correct the parameters.","Javítsa ki a paramétereket.",module,Magento_CatalogImportExport
-"File '%1' was not found or has read restriction.","File '%1' was not found or has read restriction.",module,Magento_CatalogImportExport
+"File '%1' was not found or has read restriction.","A '%1' fájl nem található vagy olvasási korlátozást tartalmaz.",module,Magento_CatalogImportExport
 "Entity type model must be an instance of Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType","Entitás típus modellnek a Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType egy példányának kell lennie",module,Magento_CatalogImportExport
-"Entity type model must be an instance of '%1'","Entity type model must be an instance of '%1'",module,Magento_CatalogImportExport
-"Disallowed file type.","Disallowed file type.",module,Magento_CatalogImportExport
-"Value for multiselect attribute %s contains duplicated values","Value for multiselect attribute %s contains duplicated values",module,Magento_CatalogImportExport
-"Invalid Stock data for insert","Invalid Stock data for insert",module,Magento_CatalogImportExport
-"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1","Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1",module,Magento_CatalogImportExport
+"Entity type model must be an instance of '%1'","Az entitás típus egyik ""%1"" legyen",module,Magento_CatalogImportExport
+"Disallowed file type.","Nem engedélyezett file típus.",module,Magento_CatalogImportExport
+"Value for multiselect attribute %s contains duplicated values","A %s multiselect attribútum duplikált értékeket tartalmaz",module,Magento_CatalogImportExport
+"Invalid Stock data for insert","Érvénytelen készlet beillesztése",module,Magento_CatalogImportExport
+"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1","A 'type' al attribútum értéke az 'custom_options' attribútumban helytelen értéket tartalmaz, az elfogadható értékek: %1",module,Magento_CatalogImportExport
 "ALL GROUPS","MINDEN CSOPORT",module,Magento_CatalogInventory
 "Customer Group","Vásárlói csoport",module,Magento_CatalogInventory
 "Minimum Qty","Minimális mennyiség",module,Magento_CatalogInventory
@@ -3265,7 +3266,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Error!","Hiba!",module,Magento_Checkout
 "DB exception","Adatbázishiba",module,Magento_Checkout
 "Message","Üzenet",module,Magento_Checkout
-"Print receipt","Print receipt",module,Magento_Checkout
+"Print receipt","Bizonylat nyomtatása",module,Magento_Checkout
 "Apply Discount Code","Kupon érvényesítése",module,Magento_Checkout
 "Enter discount code","Kedvezmény-kód megadása",module,Magento_Checkout
 "Apply Discount","Kupon érvényesítése",module,Magento_Checkout
@@ -3343,7 +3344,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 " Example: "," Példa: ",module,Magento_Checkout
 "If you believe it is the right one you can ignore this notice.","Ha úgy véli, hogy ez a megfelelő, nyugodtan hagyja figyelmen kívül ezt az értesítést.",module,Magento_Checkout
 "New Address","Új cím",module,Magento_Checkout
-"Are you sure you would like to remove this item from the shopping cart?","Are you sure you would like to remove this item from the shopping cart?",module,Magento_Checkout
+"Are you sure you would like to remove this item from the shopping cart?","Biztosan eltávolítja ezt a terméket a kosárból?",module,Magento_Checkout
 "Review & Payments","Felülvizsgálat & kifizetések",module,Magento_Checkout
 "Select a new payment method","Válasszon új fizetési módot",module,Magento_Checkout
 "Shipping","Szállítás",module,Magento_Checkout
@@ -3385,7 +3386,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Cart contains virtual product(s) only. Shipping address is not applicable.","A kosárban csak virtuális termék(ek) vannak. Szállítási cím megadása nem szükséges.",module,Magento_Checkout
 "Wrong minimum amount.","A minimális összeg hibás.",module,Magento_Checkout
 "<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Számla nyomtatása</a>",module,Magento_Checkout
-"Forgot Password","Forgot Password",module,Magento_Checkout
+"Forgot Password","Elfelejtett jelszó",module,Magento_Checkout
 "Close","Bezár",module,Magento_Checkout
 "item","elem",module,Magento_Checkout
 "items","elemek",module,Magento_Checkout
@@ -3727,38 +3728,38 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Future Update already exists in this time range. Set a different range and try again.","Future Update already exists in this time range. Set a different range and try again.",module,Magento_CmsStaging
 "Delete Customer","Vásárló törlése",module,Magento_Company
 "Back","Vissza",module,Magento_Company
-"Delete Company","Delete Company",module,Magento_Company
+"Delete Company","Cég törlése",module,Magento_Company
 "Reset","Alaphelyzet",module,Magento_Company
 "Save","Mentés",module,Magento_Company
 "Save & Close","Mentés & bezárás",module,Magento_Company
-"Companies","Companies",module,Magento_Company
-"Add New Company","Add New Company",module,Magento_Company
-"(me)","(me)",module,Magento_Company
-"Company Name:","Company Name:",module,Magento_Company
-"Company Legal Name:","Company Legal Name:",module,Magento_Company
-"Company Email:","Company Email:",module,Magento_Company
-"VAT/TAX ID:","VAT/TAX ID:",module,Magento_Company
-"Re-seller ID:","Re-seller ID:",module,Magento_Company
-"Street Address:","Street Address:",module,Magento_Company
-"City:","City:",module,Magento_Company
-"Country:","Country:",module,Magento_Company
-"State/Province:","State/Province:",module,Magento_Company
-"ZIP/Postal Code:","ZIP/Postal Code:",module,Magento_Company
-"Phone Number:","Phone Number:",module,Magento_Company
-"Job Title:","Job Title:",module,Magento_Company
+"Companies","Cégek",module,Magento_Company
+"Add New Company","Új cég hozzáadása",module,Magento_Company
+"(me)","(én)",module,Magento_Company
+"Company Name:","Cégnév:",module,Magento_Company
+"Company Legal Name:","Cég teljes neve:",module,Magento_Company
+"Company Email:","Céges email:",module,Magento_Company
+"VAT/TAX ID:","Adószám:",module,Magento_Company
+"Re-seller ID:","Viszonteladói azonosító:",module,Magento_Company
+"Street Address:","Utca, házszám:",module,Magento_Company
+"City:","Település:",module,Magento_Company
+"Country:","Ország:",module,Magento_Company
+"State/Province:","Megye:",module,Magento_Company
+"ZIP/Postal Code:","Irányítószám:",module,Magento_Company
+"Phone Number:","Telefonszám:",module,Magento_Company
+"Job Title:","Beosztás:",module,Magento_Company
 "Email Address:","E-mail cím:",module,Magento_Company
-"Prefix:","Prefix:",module,Magento_Company
-"First Name:","First Name:",module,Magento_Company
-"Middle Name/Initial:","Middle Name/Initial:",module,Magento_Company
-"Last Name:","Last Name:",module,Magento_Company
-"Suffix:","Suffix:",module,Magento_Company
-"Gender:","Gender:",module,Magento_Company
-"Duplicated","Duplicated",module,Magento_Company
-"Company Structure","Company Structure",module,Magento_Company
+"Prefix:","Előtag:",module,Magento_Company
+"First Name:","Keresztnév:",module,Magento_Company
+"Middle Name/Initial:","Második név:",module,Magento_Company
+"Last Name:","Vezetéknév:",module,Magento_Company
+"Suffix:","Végződés (suffix):",module,Magento_Company
+"Gender:","Nem:",module,Magento_Company
+"Duplicated","Másolat",module,Magento_Company
+"Company Structure","Cég felépítése",module,Magento_Company
 "Page not found.","Az oldal nem található.",module,Magento_Company
 "Something went wrong.","Valami elromlott.",module,Magento_Company
-"New Company","New Company",module,Magento_Company
-"Thank you! We're reviewing your request and will contact you soon","Thank you! We're reviewing your request and will contact you soon",module,Magento_Company
+"New Company","Új cég hozzáadása",module,Magento_Company
+"Thank you! We're reviewing your request and will contact you soon","Köszönjük, jelentkezését felülvizsgáljuk és hamarosan válaszolunk!",module,Magento_Company
 "An error occurred on the server. Your changes have not been saved.","An error occurred on the server. Your changes have not been saved.",module,Magento_Company
 "Incorrect CAPTCHA","Érvénytelen CAPTCHA",module,Magento_Company
 "Create New Company","Create New Company",module,Magento_Company
@@ -3974,7 +3975,7 @@ but they will not be able to place orders.",module,Magento_Company
 for the following reason:","Your company registration request (for the <strong>%company_name</strong>) has been rejected,module,Magento_Company
 for the following reason:",module,Magento_Company
 "This action cannot be undone. Are you sure you want to delete this company? After the company is deleted, all the company members will be set to Inactive.","This action cannot be undone. Are you sure you want to delete this company? After the company is deleted, all the company members will be set to Inactive.",module,Magento_Company
-"Delete a Company?","Delete a Company?",module,Magento_Company
+"Delete a Company?","Cég törlése?",module,Magento_Company
 "Cancel","Mégse",module,Magento_Company
 "Are you sure you want to do this?","Biztos benne, hogy végrehajtja a műveletet?",module,Magento_Company
 "Sorry! You cannot delete this user: The user is the company admin.","Sorry! You cannot delete this user: The user is the company admin.",module,Magento_Company
@@ -9067,7 +9068,7 @@ information on installing the agent is available <a target=""_blank"" href=""%1"
 "We have saved your subscription.","We have saved your subscription.",module,Magento_Newsletter
 "A confirmation request has been sent.","A confirmation request has been sent.",module,Magento_Newsletter
 "We have removed your newsletter subscription.","We have removed your newsletter subscription.",module,Magento_Newsletter
-"We have updated your subscription.","We have updated your subscription.",module,Magento_Newsletter
+"We have updated your subscription.","Feliratkozását frissítettük.",module,Magento_Newsletter
 "General Options","Általános beállítások",module,Magento_Newsletter
 "Enabled","Engedélyezve",module,Magento_Newsletter
 "Make Check payable to:","Make Check payable to:",module,Magento_OfflinePayments
@@ -16222,73 +16223,73 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Transaction has been canceled","Transaction has been canceled",module,Magento_Worldpay
 "Transaction has been declined","Transaction has been declined",module,Magento_Worldpay
 "The response type is incorrect. Verify the type and try again.","The response type is incorrect. Verify the type and try again.",module,Magento_Worldpay
-"Summary","Összefoglaló",theme,frontend\Magento\blank
-"Account Dashboard","Felhasználói fiók irányítópult",theme,frontend\Magento\blank
-"Account Information","Fiókadatok",theme,frontend\Magento\blank
-"Address Book","Címjegyzék",theme,frontend\Magento\blank
-"Menu","Menü",theme,frontend\Magento\blank
-"Account","Fiók",theme,frontend\Magento\blank
-"Settings","Beállítások",theme,frontend\Magento\blank
-"Now Shopping by","Aktív szűrőfeltételek",theme,frontend\Magento\luma
-"Previous","Előző",theme,frontend\Magento\luma
-"Remove","Eltávolítás",theme,frontend\Magento\luma
-"Remove This Item","Termék eltávolítása",theme,frontend\Magento\luma
-"Shop By","Szűrés",theme,frontend\Magento\luma
-"Clear All","Összes törlése",theme,frontend\Magento\luma
-"Shopping Options","Vásárlási beállítások",theme,frontend\Magento\luma
-"Welcome to %store_name","Üdvözlet a %store_name webáruházban",theme,frontend\Magento\luma
-"%name,","%name,",theme,frontend\Magento\luma
-"Welcome to %store_name.","Üdvözlet a %store_name webáruházban.",theme,frontend\Magento\luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","A bejelentkezéshez használja ezeket az adatokat fizetés közben vagy a <a href=""%customer_url"">Saját fiók</a> oldalon:",theme,frontend\Magento\luma
-"Email:","E-mail:",theme,frontend\Magento\luma
-"Password:","Jelszó:",theme,frontend\Magento\luma
-"Password you set when creating account","Jelszó beállítva a felhasználói fiók létrehozásakor",theme,frontend\Magento\luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Elfelejtette a jelszavát? <a href=""%reset_url"">Kattintson ide</a> a visszaállításhoz.",theme,frontend\Magento\luma
-"When you sign in to your account, you will be able to:","Ha bejelentkezel a felhasználói fiókodba, képes leszel:",theme,frontend\Magento\luma
-"Quick Checkout","Gyors fizetés",theme,frontend\Magento\luma
-"Proceed through checkout faster","Gyorsabb vásárlásra",theme,frontend\Magento\luma
-"Order Status","Megrendelés állapota",theme,frontend\Magento\luma
-"Check the status of orders","Rendelések állapotának ellenőrzésére",theme,frontend\Magento\luma
-"Manage Addresses","Címek kezelése",theme,frontend\Magento\luma
-"Store alternative addresses","Alternatív címek tárolása",theme,frontend\Magento\luma
-"For shipping to multiple family members and friends","Szállítás több családtagnak és barátnak",theme,frontend\Magento\luma
-"Order History","Korábbi rendelések",theme,frontend\Magento\luma
-"View past orders","Korábbi rendelések megtekintésére",theme,frontend\Magento\luma
-"Footer","Lábléc",theme,frontend\Magento\luma
-"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>Rólunk</a>",theme,frontend\Magento\luma
-"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Vevőszolgálat</a>",theme,frontend\Magento\luma
-"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend\Magento\luma
-"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Nyitvatartás:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend\Magento\luma
-"Credit memo for your %store_name order","Jóváírás a %store_name megrendeléshez",theme,frontend\Magento\luma
-"Thank you for your order from %store_name.","Köszönjük a %store_name webáruházban leadott megrendelést.",theme,frontend\Magento\luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","A rendelés állapotát ellenőrizheted, ha <a href=""%account_url"">bejelentkezel a felhasználói fiókodba</a>.",theme,frontend\Magento\luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Ha kérdésed van a rendeléseddel kapcsolatban, <a href=""mailto:%store_email"">%store_email</a> címre írj nekünk.",theme,frontend\Magento\luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Az ön jóváírása #%creditmemo_id a(z) #%order_id számú megrendeléshez",theme,frontend\Magento\luma
-"Billing Info","Számlázási információk",theme,frontend\Magento\luma
-"Shipping Info","Szállítási információk",theme,frontend\Magento\luma
-"Payment Method","Fizetési mód",theme,frontend\Magento\luma
-"Shipping Method","Szállítási mód",theme,frontend\Magento\luma
-"Update to your %store_name credit memo","Frissítés a %store_name jóváíráshoz",theme,frontend\Magento\luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","A(z) #%increment_id számú megrendelés státusza frissült: <strong>%order_status</strong>.",theme,frontend\Magento\luma
-"Invoice for your %store_name order","A(z) %store_name rendelés számlája",theme,frontend\Magento\luma
-"Your Invoice #%invoice_id for Order #%order_id","A(z) #%order_id számú rendelés #%invoice_id azonosítójú számlája",theme,frontend\Magento\luma
-"Update to your %store_name invoice","Az Ön %store_name számla frissítése",theme,frontend\Magento\luma
-"Your %store_name order confirmation","Az Ön %store_name rendelés-visszaigazolása",theme,frontend\Magento\luma
-"%customer_name,","%customer_name,",theme,frontend\Magento\luma
-"Once your package ships we will send you a tracking number.","Ha a csomag szállításra kész, elküldjük a nyomkövetési kódot.",theme,frontend\Magento\luma
-"Your Order <span class=""no-link"">#%increment_id</span>","A z Ön rendelése <span class=""no-link"">#%increment_id</span>",theme,frontend\Magento\luma
-"Placed on <span class=""no-link"">%created_at</span>","Rendelés ideje: <span class=""no-link"">%created_at</span>",theme,frontend\Magento\luma
-"Update to your %store_name order","%store_name megrendeléssel kapcsolatos válzozások",theme,frontend\Magento\luma
-"Your %store_name order has shipped","A %store_name megrendelése szállításra került",theme,frontend\Magento\luma
-"Your shipping confirmation is below. Thank you again for your business.","A szállítási információ megerősítve. Köszönjük rendelését.",theme,frontend\Magento\luma
-"Your Shipment #%shipment_id for Order #%order_id","A #%order_id megrendelés #%shipment_id azonosítójú szállítása",theme,frontend\Magento\luma
-"Update to your %store_name shipment","Változás a %store_name megrendeléssel kapcsolatban",theme,frontend\Magento\luma
-"Account Dashboard","Felhasználói fiók irányítópult",theme,frontend\Magento\luma
-"Address Book","Címjegyzék",theme,frontend\Magento\luma
-"Account Information","Fiókadatok",theme,frontend\Magento\luma
-"About Us","Rólunk",theme,frontend\Magento\luma
-"Customer Service","Ügyfélszolgálat",theme,frontend\Magento\luma
-"My Account","Saját fiók",theme,frontend\Magento\luma
+"Summary","Összefoglaló",theme,frontend/Magento/blank
+"Account Dashboard","Felhasználói fiók irányítópult",theme,frontend/Magento/blank
+"Account Information","Fiókadatok",theme,frontend/Magento/blank
+"Address Book","Címjegyzék",theme,frontend/Magento/blank
+"Menu","Menü",theme,frontend/Magento/blank
+"Account","Fiók",theme,frontend/Magento/blank
+"Settings","Beállítások",theme,frontend/Magento/blank
+"Now Shopping by","Aktív szűrőfeltételek",theme,frontend/Magento/luma
+"Previous","Előző",theme,frontend/Magento/luma
+"Remove","Eltávolítás",theme,frontend/Magento/luma
+"Remove This Item","Termék eltávolítása",theme,frontend/Magento/luma
+"Shop By","Szűrés",theme,frontend/Magento/luma
+"Clear All","Összes törlése",theme,frontend/Magento/luma
+"Shopping Options","Vásárlási beállítások",theme,frontend/Magento/luma
+"Welcome to %store_name","Üdvözlet a %store_name webáruházban",theme,frontend/Magento/luma
+"%name,","%name,",theme,frontend/Magento/luma
+"Welcome to %store_name.","Üdvözlet a %store_name webáruházban.",theme,frontend/Magento/luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","A bejelentkezéshez használja ezeket az adatokat fizetés közben vagy a <a href=""%customer_url"">Saját fiók</a> oldalon:",theme,frontend/Magento/luma
+"Email:","E-mail:",theme,frontend/Magento/luma
+"Password:","Jelszó:",theme,frontend/Magento/luma
+"Password you set when creating account","Jelszó beállítva a felhasználói fiók létrehozásakor",theme,frontend/Magento/luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Elfelejtette a jelszavát? <a href=""%reset_url"">Kattintson ide</a> a visszaállításhoz.",theme,frontend/Magento/luma
+"When you sign in to your account, you will be able to:","Ha bejelentkezel a felhasználói fiókodba, képes leszel:",theme,frontend/Magento/luma
+"Quick Checkout","Gyors fizetés",theme,frontend/Magento/luma
+"Proceed through checkout faster","Gyorsabb vásárlásra",theme,frontend/Magento/luma
+"Order Status","Megrendelés állapota",theme,frontend/Magento/luma
+"Check the status of orders","Rendelések állapotának ellenőrzésére",theme,frontend/Magento/luma
+"Manage Addresses","Címek kezelése",theme,frontend/Magento/luma
+"Store alternative addresses","Alternatív címek tárolása",theme,frontend/Magento/luma
+"For shipping to multiple family members and friends","Szállítás több családtagnak és barátnak",theme,frontend/Magento/luma
+"Order History","Korábbi rendelések",theme,frontend/Magento/luma
+"View past orders","Korábbi rendelések megtekintésére",theme,frontend/Magento/luma
+"Footer","Lábléc",theme,frontend/Magento/luma
+"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>Rólunk</a>",theme,frontend/Magento/luma
+"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Vevőszolgálat</a>",theme,frontend/Magento/luma
+"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend/Magento/luma
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Nyitvatartás:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
+"Credit memo for your %store_name order","Jóváírás a %store_name megrendeléshez",theme,frontend/Magento/luma
+"Thank you for your order from %store_name.","Köszönjük a %store_name webáruházban leadott megrendelést.",theme,frontend/Magento/luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","A rendelés állapotát ellenőrizheted, ha <a href=""%account_url"">bejelentkezel a felhasználói fiókodba</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Ha kérdésed van a rendeléseddel kapcsolatban, <a href=""mailto:%store_email"">%store_email</a> címre írj nekünk.",theme,frontend/Magento/luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Az ön jóváírása #%creditmemo_id a(z) #%order_id számú megrendeléshez",theme,frontend/Magento/luma
+"Billing Info","Számlázási információk",theme,frontend/Magento/luma
+"Shipping Info","Szállítási információk",theme,frontend/Magento/luma
+"Payment Method","Fizetési mód",theme,frontend/Magento/luma
+"Shipping Method","Szállítási mód",theme,frontend/Magento/luma
+"Update to your %store_name credit memo","Frissítés a %store_name jóváíráshoz",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","A(z) #%increment_id számú megrendelés státusza frissült: <strong>%order_status</strong>.",theme,frontend/Magento/luma
+"Invoice for your %store_name order","A(z) %store_name rendelés számlája",theme,frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","A(z) #%order_id számú rendelés #%invoice_id azonosítójú számlája",theme,frontend/Magento/luma
+"Update to your %store_name invoice","Az Ön %store_name számla frissítése",theme,frontend/Magento/luma
+"Your %store_name order confirmation","Az Ön %store_name rendelés-visszaigazolása",theme,frontend/Magento/luma
+"%customer_name,","%customer_name,",theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.","Ha a csomag szállításra kész, elküldjük a nyomkövetési kódot.",theme,frontend/Magento/luma
+"Your Order <span class=""no-link"">#%increment_id</span>","A z Ön rendelése <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
+"Placed on <span class=""no-link"">%created_at</span>","Rendelés ideje: <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
+"Update to your %store_name order","%store_name megrendeléssel kapcsolatos válzozások",theme,frontend/Magento/luma
+"Your %store_name order has shipped","A %store_name megrendelése szállításra került",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","A szállítási információ megerősítve. Köszönjük rendelését.",theme,frontend/Magento/luma
+"Your Shipment #%shipment_id for Order #%order_id","A #%order_id megrendelés #%shipment_id azonosítójú szállítása",theme,frontend/Magento/luma
+"Update to your %store_name shipment","Változás a %store_name megrendeléssel kapcsolatban",theme,frontend/Magento/luma
+"Account Dashboard","Felhasználói fiók irányítópult",theme,frontend/Magento/luma
+"Address Book","Címjegyzék",theme,frontend/Magento/luma
+"Account Information","Fiókadatok",theme,frontend/Magento/luma
+"About Us","Rólunk",theme,frontend/Magento/luma
+"Customer Service","Ügyfélszolgálat",theme,frontend/Magento/luma
+"My Account","Saját fiók",theme,frontend/Magento/luma
 "Backup options","Biztonsági mentés opciók",lib,web
 "Warning","Figyelmeztetés",lib,web
 "Cancel","Mégse",lib,web
