@@ -95,3 +95,5 @@
 "Order Total Excl. Tax","Vásárlás összege adó nélkül",module,Magento_Tax
 "You will be charged for","Fizetendő",module,Magento_Tax
 "You will be charged for","Fizetendő",module,Magento_CompanyCredit
+"The requested qty is not available","A kért mennyiség nem áll rendelkezésre.",module,Magento_CatalogInventory
+"Please enter a quantity greater than 0.","Kérjük, adjon meg egy 0-nál nagyobb számot.",module,Magento_Ui
